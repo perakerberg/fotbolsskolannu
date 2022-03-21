@@ -7,7 +7,7 @@ Alla barn födda 2010 – 2016 är välkomna. Att vara med är gratis.
 
 
 <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 1rem">
-<img src="/images/jagar.JPG"  >
+<img src="/images/jagar.jpg"  >
 <img src="/images/horred-spelar.jpg" >
 </div>
 
