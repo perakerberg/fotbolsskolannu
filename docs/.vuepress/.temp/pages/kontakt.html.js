@@ -7,8 +7,14 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1647893921000,
+    "contributors": [
+      {
+        "name": "Per Åkerberg",
+        "email": "per.akerberg@live.se",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "kontakt.md"
 }

@@ -14,15 +14,23 @@ export const siteData = {
     [
       "link",
       {
-        "rel": "stylesheet",
-        "href": "https://fonts.googleapis.com/css?family=LuckiestGuy"
+        "rel": "preconnect",
+        "href": "https://fonts.googleapis.com"
+      }
+    ],
+    [
+      "link",
+      {
+        "rel": "preconnect",
+        "href": "https://fonts.gstatic.com",
+        "crossorigin": true
       }
     ],
     [
       "link",
       {
         "rel": "stylesheet",
-        "href": "https://fonts.googleapis.com/css?family=Avenir"
+        "href": "https://fonts.googleapis.com/css2?family=Luckiest+Guy"
       }
     ]
   ],

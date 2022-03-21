@@ -26,8 +26,14 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1647893921000,
+    "contributors": [
+      {
+        "name": "Per Åkerberg",
+        "email": "per.akerberg@live.se",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "schema.md"
 }

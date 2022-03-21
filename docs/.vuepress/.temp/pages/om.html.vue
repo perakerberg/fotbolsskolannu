@@ -1,10 +1,10 @@
 <template><h1 id="fotbollsskolan" tabindex="-1"><a class="header-anchor" href="#fotbollsskolan" aria-hidden="true">#</a> Fotbollsskolan</h1>
 <p>Fotbollsskolan är ett nytt samarbetsprojekt mellan Horredsbygdens två fotbollsföreningar - <em>Horreds IF</em> &amp; <em>IFK Öxnevalla</em>, Konceptet är utvecklat av Svenska Fotbollförbundet. Innehållet baseras på Fotbollens spela, lek och lär samt spelarutbildningsplanen.
 Alla barn födda 2010 – 2016 är välkomna. Att vara med är gratis.</p>
-<div style="display:grid; grid-template-columns: 1fr 1fr; gap: 1rem">
-<img src="/images/jagar.JPG"  >
-<img src="/images/horred-spelar.jpg" >
-</div>
+<p align="center">
+<img src="/images/jagar.jpg" width="400px">
+<img src="/images/horred-spelar.jpg" width="400px" >
+</p>
 <h3 id="syfte" tabindex="-1"><a class="header-anchor" href="#syfte" aria-hidden="true">#</a> Syfte</h3>
 <ul>
 <li>Att ge alla barn i Horredsbygden med omnejd möjlighet till några dagars fotbollsglädje</li>

@@ -6,10 +6,10 @@ Fotbollsskolan är ett nytt samarbetsprojekt mellan Horredsbygdens två fotbolls
 Alla barn födda 2010 – 2016 är välkomna. Att vara med är gratis.
 
 
-<div style="display:grid; grid-template-columns: 1fr 1fr; gap: 1rem">
-<img src="/images/jagar.jpg"  >
-<img src="/images/horred-spelar.jpg" >
-</div>
+<p align="center">
+<img src="/images/jagar.jpg" width="400px">
+<img src="/images/horred-spelar.jpg" width="400px" >
+</p>
 
 ### Syfte
 - Att ge alla barn i Horredsbygden med omnejd möjlighet till några dagars fotbollsglädje

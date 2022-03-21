@@ -20,8 +20,14 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1647894720000,
+    "contributors": [
+      {
+        "name": "Per Åkerberg",
+        "email": "per.akerberg@live.se",
+        "commits": 2
+      }
+    ]
   },
   "filePathRelative": "om.md"
 }
