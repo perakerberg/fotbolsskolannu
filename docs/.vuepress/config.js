@@ -1,22 +1,36 @@
+const { path } = require('@vuepress/utils')
+
 module.exports = {
     // site config
-    lang: 'en-US',
-    title: 'Hello, VuePress!',
-    description: 'This is my first VuePress site',
+    head: [
+        ['link', { rel: 'stylesheet', href: './style/main.css' }],
+        ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=LuckiestGuy' }],
+        ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Avenir' }],
+      ],
+    lang: 'sv-SE',
+    title: 'Fotbollsskolan ',
+    description: '',
   
     // theme and its config
-    theme: '@vuepress/theme-default',
+    theme: '@vuepress/default',
+   
     themeConfig: {
-      logo: 'https://vuejs.org/images/logo.png',
-      nav: [
-        {
-          text: 'Languages',
-          ariaLabel: 'Language Menu',
-          items: [
-            { text: 'Chinese', link: '/language/chinese/' },
-            { text: 'Japanese', link: '/language/japanese/' }
-          ]
-        }
-      ]
+      logo: '/images/logo_v4.png',
+      navbar: [
+        { text: 'Anmälan', link: '/anmalan' },
+        { text: 'Schema', link: '/schema' },
+        { text: 'Om', link: '/om' },
+        { text: 'Kontakt', link: '/kontakt' },
+        { text: 'Lira blågult', link: 'https://vastergotland.svenskfotboll.se/forening/fotbollsskolan--lira-blagult/' }
+      ],
+      sidebar: false,
+    
     },
+    
+    clientAppEnhanceFiles: path.resolve(
+        __dirname,
+        './clientAppEnhance.js'
+      ),
+    
+   
   }

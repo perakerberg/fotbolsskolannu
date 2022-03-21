@@ -1,32 +1,37 @@
 export const themeData = {
-  "logo": "https://vuejs.org/images/logo.png",
-  "nav": [
+  "logo": "/images/logo_v4.png",
+  "navbar": [
     {
-      "text": "Languages",
-      "ariaLabel": "Language Menu",
-      "items": [
-        {
-          "text": "Chinese",
-          "link": "/language/chinese/"
-        },
-        {
-          "text": "Japanese",
-          "link": "/language/japanese/"
-        }
-      ]
+      "text": "Anmälan",
+      "link": "/anmalan"
+    },
+    {
+      "text": "Schema",
+      "link": "/schema"
+    },
+    {
+      "text": "Om",
+      "link": "/om"
+    },
+    {
+      "text": "Kontakt",
+      "link": "/kontakt"
+    },
+    {
+      "text": "Lira blågult",
+      "link": "https://vastergotland.svenskfotboll.se/forening/fotbollsskolan--lira-blagult/"
     }
   ],
+  "sidebar": false,
   "locales": {
     "/": {
       "selectLanguageName": "English"
     }
   },
-  "navbar": [],
   "darkMode": true,
   "repo": null,
   "selectLanguageText": "Languages",
   "selectLanguageAriaLabel": "Select language",
-  "sidebar": "auto",
   "sidebarDepth": 2,
   "editLink": true,
   "editLinkText": "Edit this page",

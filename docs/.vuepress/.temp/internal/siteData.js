@@ -1,9 +1,31 @@
 export const siteData = {
   "base": "/",
-  "lang": "en-US",
-  "title": "Hello, VuePress!",
-  "description": "This is my first VuePress site",
-  "head": [],
+  "lang": "sv-SE",
+  "title": "Fotbollsskolan ",
+  "description": "",
+  "head": [
+    [
+      "link",
+      {
+        "rel": "stylesheet",
+        "href": "./style/main.css"
+      }
+    ],
+    [
+      "link",
+      {
+        "rel": "stylesheet",
+        "href": "https://fonts.googleapis.com/css?family=LuckiestGuy"
+      }
+    ],
+    [
+      "link",
+      {
+        "rel": "stylesheet",
+        "href": "https://fonts.googleapis.com/css?family=Avenir"
+      }
+    ]
+  ],
   "locales": {}
 }
 
