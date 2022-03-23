@@ -1,4 +1,5 @@
 <template><h1 id="schema" tabindex="-1"><a class="header-anchor" href="#schema" aria-hidden="true">#</a> Schema</h1>
+<p>Här kommer ni finna dagschecmat för fotbollskolan, när det är spikat!</p>
 <h2 id="mandag-20-juni" tabindex="-1"><a class="header-anchor" href="#mandag-20-juni" aria-hidden="true">#</a> Måndag 20 Juni</h2>
 <table>
 <thead>

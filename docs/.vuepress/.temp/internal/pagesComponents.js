@@ -5,6 +5,8 @@ export const pagesComponents = {
   "v-539aa44c": defineAsyncComponent(() => import(/* webpackChunkName: "v-539aa44c" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/anmalan.html.vue")),
   // path: /kontakt.html
   "v-51f3fb32": defineAsyncComponent(() => import(/* webpackChunkName: "v-51f3fb32" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/kontakt.html.vue")),
+  // path: /ledare-sokes.html
+  "v-5c30eaf2": defineAsyncComponent(() => import(/* webpackChunkName: "v-5c30eaf2" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/ledare-sokes.html.vue")),
   // path: /om.html
   "v-1692a0a2": defineAsyncComponent(() => import(/* webpackChunkName: "v-1692a0a2" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/om.html.vue")),
   // path: /

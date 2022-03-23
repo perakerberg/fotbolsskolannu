@@ -3,6 +3,8 @@ export const pagesData = {
   "v-539aa44c": () => import(/* webpackChunkName: "v-539aa44c" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/anmalan.html.js").then(({ data }) => data),
   // path: /kontakt.html
   "v-51f3fb32": () => import(/* webpackChunkName: "v-51f3fb32" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/kontakt.html.js").then(({ data }) => data),
+  // path: /ledare-sokes.html
+  "v-5c30eaf2": () => import(/* webpackChunkName: "v-5c30eaf2" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/ledare-sokes.html.js").then(({ data }) => data),
   // path: /om.html
   "v-1692a0a2": () => import(/* webpackChunkName: "v-1692a0a2" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/om.html.js").then(({ data }) => data),
   // path: /

@@ -19,6 +19,7 @@ module.exports = {
     themeConfig: {
       logo: '/images/logo_v4.png',
       navbar: [
+        { text: 'LEDARE SÖKES!', link: '/ledare-sokes' },
         { text: 'Anmälan', link: '/anmalan' },
         { text: 'Schema', link: '/schema' },
         { text: 'Om', link: '/om' },

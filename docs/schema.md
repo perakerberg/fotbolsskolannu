@@ -1,5 +1,8 @@
 # Schema
 
+Här kommer ni finna dagschecmat för fotbollskolan, när det är spikat!
+
+
 ## Måndag 20 Juni
 |Tid|Aktivitet|
 |------|----|
