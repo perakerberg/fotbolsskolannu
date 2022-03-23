@@ -10,12 +10,18 @@ Alla ledare får ett ledarpaket med riktigt schyssta träningskläder, det ska j
 
 <img src="https://aktiva.svenskfotboll.se/493521/globalassets/svff/bilderblock/aktiva/fotbollsskolan/fotbollsskolan_ledarklader.jpg/contentlarge"/>
 
-Dessutom kommer vi från föreningarnas sida erbjuda en liten symbolisk ersättning, som ett extra tack till dig. För det här är inte vilka dagar som helst - det är sommarens bästa dagar! Självklart vill du vara med!
+Dessutom kommer vi från föreningarnas sida erbjuda en liten symbolisk ersättning, som ett extra tack till dig. För det här är inte vilka dagar som helst - det är **sommarens bästa dagar**! 
+
+    Självklart vill du vara med!
 
 ### Detaljer
-Fotbollsskolan arrangeras gemensamt av IFK Öxnevalla och Horreds IF, den 20-22 Juni 2022. Du behöver vara tillgänglig mellan 08.30 - 13:30 varje dag. Vi bjuder självklart på lunch. Vi behöver också träffas några gånger före fotbollsskolan börjar för att genomföra utbildning samt gå igenom övningarna.
+- Fotbollsskolan arrangeras gemensamt av **IFK Öxnevalla** och **Horreds IF**.
+- Fotbollsskolan är den **20-22 Juni 2022**. 
+- Du behöver vara tillgänglig mellan **08.30 - 13:30** varje dag. 
+- Vi bjuder självklart på lunch :pizza:. 
+- Vi behöver också träffas några gånger före fotbollsskolan börjar för att genomföra utbildning samt gå igenom övningarna.
 
-Anmäl ditt intresse till:
+#### Anmäl ditt intresse till:
 - Namn Namnsson, mail, telefon
 
 
