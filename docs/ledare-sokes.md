@@ -19,7 +19,7 @@ Anmäl ditt intresse till:
 - Namn Namnsson, mail, telefon
 
 
-<img src="images/logo_v4.png" height="300px" style="display:flex"/>
+<img src="/images/logo_v4.png" height="300px" style="display:flex"/>
 
 
 
