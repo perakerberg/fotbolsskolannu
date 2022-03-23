@@ -10,7 +10,7 @@ module.exports = {
         ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Luckiest+Guy' }],
       ],
     lang: 'sv-SE',
-    title: 'Fotbollsskolan ',
+    title: 'Fotbollsskola i Öxnevalla & Horred ',
     description: '',
   
     // theme and its config

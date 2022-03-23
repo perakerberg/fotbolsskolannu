@@ -1,7 +1,7 @@
 export const siteData = {
   "base": "/",
   "lang": "sv-SE",
-  "title": "Fotbollsskolan ",
+  "title": "Fotbollsskola i Öxnevalla & Horred ",
   "description": "",
   "head": [
     [
