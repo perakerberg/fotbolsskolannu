@@ -13,4 +13,6 @@ export const pagesData = {
   "v-187de182": () => import(/* webpackChunkName: "v-187de182" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/schema.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
+  // path: /start.html
+  "v-6f9a3970": () => import(/* webpackChunkName: "v-6f9a3970" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/start.html.js").then(({ data }) => data),
 }
