@@ -3,7 +3,7 @@ const { path } = require('@vuepress/utils')
 module.exports = {
     // site config
     head: [
-       
+        ['link', { rel: "shortcut icon", href: "/images/soccer.ico"}],
         ['link', { rel: 'stylesheet', href: './style/main.css' }],
         ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
         ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: true }],

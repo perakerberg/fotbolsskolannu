@@ -7,6 +7,13 @@ export const siteData = {
     [
       "link",
       {
+        "rel": "shortcut icon",
+        "href": "/images/soccer.ico"
+      }
+    ],
+    [
+      "link",
+      {
         "rel": "stylesheet",
         "href": "./style/main.css"
       }
