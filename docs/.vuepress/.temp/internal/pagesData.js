@@ -7,8 +7,6 @@ export const pagesData = {
   "v-5c30eaf2": () => import(/* webpackChunkName: "v-5c30eaf2" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/ledare-sokes.html.js").then(({ data }) => data),
   // path: /om.html
   "v-1692a0a2": () => import(/* webpackChunkName: "v-1692a0a2" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/om.html.js").then(({ data }) => data),
-  // path: /
-  "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /schema.html
   "v-187de182": () => import(/* webpackChunkName: "v-187de182" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/schema.html.js").then(({ data }) => data),
   // path: /404.html
