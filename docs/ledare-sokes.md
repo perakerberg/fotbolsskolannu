@@ -4,7 +4,7 @@
 
 Just nu söker vi dig som vill vara ledare för en mindre grupp barn i åldrarna 6-12 år, både tjejer och killar. Även om det är en fotbollsskola så är dina möjligheter större än så. Visst kommer vi öva på fotboll, men också leka lekar, se till att gruppen håller ihop och är på bra humör. En utmaning, javisst - men vi lovar att det ger så mycket tillbaka. 
 
-Alla ledare får en särskild utbildning på ett par timmar, baserad på material från Svenska fotbollsförbundet. Dessutom finns det självklart vuxna på plats både i förberedelserna inför och under själva fotbollsskolan. Både du och deltagarna är i trygga händer.
+Alla ledare får en särskild utbildning, den tar ca 3,5 timma och baseras på material från Svenska fotbollsförbundet. Du lär dig om ledarskap, upplägg för övningar och träningspass för fotbollsskolan. Dessutom finns det självklart vuxna på plats både i förberedelserna inför och under själva fotbollsskolan. Både du och deltagarna är i trygga händer.
 
 Alla ledare får ett ledarpaket med riktigt schyssta träningskläder, det ska ju synas att just du är ledare. 
 
@@ -12,10 +12,11 @@ Alla ledare får ett ledarpaket med riktigt schyssta träningskläder, det ska j
 
 Dessutom kommer vi från föreningarnas sida erbjuda en liten symbolisk ersättning, som ett extra tack till dig. För det här är inte vilka dagar som helst - det är **sommarens bästa dagar**! 
 
-    Självklart vill du vara med!
+Självklart vill du vara med!
 
 ### Detaljer
 - Fotbollsskolan arrangeras gemensamt av **IFK Öxnevalla** och **Horreds IF**.
+- Vi träffas för en utbildning i SvFFs material samt går igenom upplägget för vår fotbollskola.
 - Fotbollsskolan är den **20-22 Juni 2022**. 
 - Du behöver vara tillgänglig mellan **08.30 - 13:30** varje dag. 
 - Vi bjuder självklart på lunch :pizza:. 

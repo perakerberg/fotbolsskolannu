@@ -1,5 +1,5 @@
 ---
-home: true
+home: false
 heroImage: /images/logo_v4.png
 heroText: Fotbollsskolan 2022
 tagline: null
