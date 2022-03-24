@@ -5,6 +5,9 @@
     font-size: 4rem;
 }
 
+.meta-item{
+    display: none !important;
+}
 @media screen and (max-width: 768px) {
     .home .hero h1, h1, .page h1{
         font-family: 'Luckiest Guy';
