@@ -6,6 +6,10 @@ export const themeData = {
       "link": "/ledare-sokes"
     },
     {
+      "text": "[Start]",
+      "link": "/start"
+    },
+    {
       "text": "Anmälan",
       "link": "/anmalan"
     },

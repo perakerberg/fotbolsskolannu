@@ -20,6 +20,7 @@ module.exports = {
       logo: '/images/logo_v4.png',
       navbar: [
         { text: 'LEDARE SÖKES!', link: '/ledare-sokes' },
+        { text: '[Start]', link: '/start' },
         { text: 'Anmälan', link: '/anmalan' },
         { text: 'Schema', link: '/schema' },
         { text: 'Om', link: '/om' },
