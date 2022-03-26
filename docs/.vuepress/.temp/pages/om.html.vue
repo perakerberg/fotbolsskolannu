@@ -1,7 +1,7 @@
 <template><h1 id="fotbollsskolan" tabindex="-1"><a class="header-anchor" href="#fotbollsskolan" aria-hidden="true">#</a> Fotbollsskolan</h1>
 <p>Fotbollsskolan är ett nytt samarbetsprojekt mellan bygdens två fotbollsföreningar - <em>Horreds IF</em> &amp; <em>IFK Öxnevalla</em>. Konceptet är utvecklat av Svenska Fotbollförbundet och kallas för <a href="https://vastergotland.svenskfotboll.se/forening/fotbollsskolan--lira-blagult/" target="_blank" rel="noopener noreferrer">Lira blågult<ExternalLinkIcon/></a>. Innehållet baseras på Fotbollens <em>spela, lek och lär</em> samt spelarutbildningsplanen.
 Alla barn födda 2010 – 2016 är välkomna. Att vara med är <strong>gratis</strong>.</p>
-<img src="/images/jagar.jpg" width="100%">
+<img src="/images/jagar.jpg" width="100%"/>
 <p>Fotbollsskolan arrangeras över tre dagar, mellan <strong>09:00</strong> och <strong>13:00</strong>. Varje dag inleds med samling och avslutas med lunch. Barnen delas in i mindre grupper, som leds av våra ungdomsledare. I bakgrunden finns ordinarie ledare från både IFK Öxnevalla och Horreds IF för att se till så att allt flyter på och känns tryggt för både barn och ledare.</p>
 <p>Alla som deltar i fotbollsskolan får ett kit med fotboll, vattenflaska och tröja - för <strong>under fotbollsskolan spelar vi alla i samma lag</strong>!</p>
 <img src="https://aktiva.svenskfotboll.se/493891/globalassets/svff/bilderblock/aktiva/fotbollsskolan/produkterfs.jpg/contentlarge"/>

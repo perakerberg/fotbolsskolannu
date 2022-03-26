@@ -3,7 +3,7 @@
 Fotbollsskolan är ett nytt samarbetsprojekt mellan bygdens två fotbollsföreningar - *Horreds IF* & *IFK Öxnevalla*. Konceptet är utvecklat av Svenska Fotbollförbundet och kallas för [Lira blågult](https://vastergotland.svenskfotboll.se/forening/fotbollsskolan--lira-blagult/). Innehållet baseras på Fotbollens _spela, lek och lär_ samt spelarutbildningsplanen.
 Alla barn födda 2010 – 2016 är välkomna. Att vara med är **gratis**.
 
-<img src="/images/jagar.jpg" width="100%">
+<img src="/images/jagar.jpg" width="100%"/>
 
 Fotbollsskolan arrangeras över tre dagar, mellan **09:00** och **13:00**. Varje dag inleds med samling och avslutas med lunch. Barnen delas in i mindre grupper, som leds av våra ungdomsledare. I bakgrunden finns ordinarie ledare från både IFK Öxnevalla och Horreds IF för att se till så att allt flyter på och känns tryggt för både barn och ledare.
 
@@ -16,8 +16,6 @@ Vi har ett samarbete med fritids på Sjöbyskolan och Letebo så att barn med fr
 
 Allt som allt - tre riktigt härliga dagar att se fram emot och tänka tillbaka på. Hoppas att vi ses!:sunny:
 <img src="/images/horred-spelar.jpg" width="100%" >
-
-
 
 ### Syfte
 - Att ge alla barn i Horredsbygden med omnejd möjlighet till några dagars fotbollsglädje
