@@ -14,6 +14,10 @@ Alla barn mellan 6-12 år (födda 2016-2010) är välkomna. Tjej eller kille, om
 
 <img src="/images/hif_banken.jpeg" width="100%"/>
 
+## Ukraina :ukraine: :heart: :soccer:
+
+Vi vill gärna bidra med det lilla vi kan för att skapa lite glädje för de Ukrainska barn som befinner sig i bygden, på flykt från kriget. IFK Öxnevalla och Horreds IF har därför ett nära samarbete med de lokala frivilligorganisationerna för att kunna erbjuda fotbollsskola till de som vill. Det känns som det minsta vi kan göra! 
+
 ## Av hela bygden
 Med våra två föreningar som grund och med stor hjälp av frivilliga runt omkring gör vi detta möjligt. Vill du hjälpa till? Vill du sponsra oss för att sätta guldkant för barnen? Har du en rolig idé till en överraskning för dem? Hör av dig - tillsammans skapar vi _sommarens roligaste dagar_!
         

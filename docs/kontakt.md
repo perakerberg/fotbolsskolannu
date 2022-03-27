@@ -1,8 +1,7 @@
 <h1>Kontakt</h1> 
 
 Vill du veta mer? Vill du hjälpa till? 
-Har du en idé om hur vi kan göra detta till *sommarens roligaste dagar* ? 
-Tveka inte att höra av er till oss!
+Har du en idé om hur vi kan göra detta till *sommarens roligaste dagar*? Vad du än undrar över - tveka inte med att höra av dig till oss! Använd kontaktformuläret, så hör vi av oss så fort som bara möjligt! :running_woman: :running_man: 
 
 <form
   name="contact"
@@ -16,17 +15,16 @@ Tveka inte att höra av er till oss!
       Don’t fill this out if you’re human: <input name="bot-field" />
     </label>
   </p>
+  
+  <div style="display: fle; flex-direction: column">
+    <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem"> Din e-postadress:</span>
+      <input type="text" name="email" style="font-size: 1.5rem" />
+   <span style="font-family: Luckiest Guy; font-size: 1.5rem; padding-top: 1rem">Meddelande</span> 
+   <textarea name="message" rows="15" style="font-size: 1.2rem"/>
+   
+  </div>
+  
   <p>
-    <label>
-      Email: <input type="text" name="email" />
-    </label>
-  </p>
-  <p>
-    <label>
-      Message: <textarea name="message"></textarea>
-    </label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
+    <button type="submit" style="font-family: Luckiest Guy; font-size: 2rem; padding-top:6px">Skicka</button>
   </p>
 </form>

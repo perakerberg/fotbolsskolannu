@@ -7,12 +7,12 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1648359842000,
+    "updatedTime": 1648360257000,
     "contributors": [
       {
         "name": "Per Åkerberg",
         "email": "per.akerberg@live.se",
-        "commits": 4
+        "commits": 5
       }
     ]
   },
