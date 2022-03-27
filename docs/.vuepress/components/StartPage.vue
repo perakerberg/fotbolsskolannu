@@ -19,6 +19,7 @@
           <img src="/images/svff_logo.png"  class="svff-logo"/>
           <img src="/images/ifk_logo.png"  class="ifk-logo"/>
       </div>
+      <div class="instructions">Klicka på bilden för att gå vidare</div>
   </div>
   
   
@@ -29,6 +30,12 @@
 </script>
 
 <style lang="scss" scoped>
+.instructions{
+    padding-top:1rem;
+    opacity: 0;
+    animation: appear 0.5s ease forwards;
+    animation-delay: 2.5s;
+}
 .dates{
     font-family: 'Verdana';
    font-size: 20px;
@@ -47,7 +54,7 @@
     border-radius: 10px;
     background: rgb(0,36,14);
 background: linear-gradient(225deg, rgba(48,110,30,1) 0%, rgba(18,47,80,1) 100%);
-height: 440px;
+height: 460px;
 width:440px;
 padding: 1rem;
 display:flex;
@@ -128,6 +135,14 @@ animation: bounce-in-right 2s ease forwards;
         opacity: 0;
        height:0;
         
+    }
+}
+@keyframes appear{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
     }
 }
 @keyframes bounce-in-right {

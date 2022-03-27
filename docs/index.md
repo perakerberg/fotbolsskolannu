@@ -6,5 +6,6 @@ title: Startsida
 <a href="/start">
 <StartPage/>
 </a>
-[Starta här-->](start)
+
+
 </div>
