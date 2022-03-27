@@ -17,4 +17,6 @@ export const pagesData = {
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /sponsorer-sokes.html
   "v-20f9ed8a": () => import(/* webpackChunkName: "v-20f9ed8a" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/sponsorer-sokes.html.js").then(({ data }) => data),
+  // path: /kontakt-tack.html
+  "v-66428bc4": () => import(/* webpackChunkName: "v-66428bc4" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/kontakt-tack.html.js").then(({ data }) => data),
 }
