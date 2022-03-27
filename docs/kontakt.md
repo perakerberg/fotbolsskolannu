@@ -9,7 +9,7 @@ Tveka inte att höra av er till oss!
   method="POST"
   netlify-honeypot="bot-field"
   data-netlify="true"
-  action="/kontakt/tack"
+  action="/tack"
 >
   <p class="hidden">
     <label>

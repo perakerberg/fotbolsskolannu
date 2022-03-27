@@ -1,18 +1,18 @@
 export const data = {
   "key": "v-51f3fb32",
   "path": "/kontakt.html",
-  "title": "Kontakt",
+  "title": "",
   "lang": "sv-SE",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1648358874000,
+    "updatedTime": 1648359842000,
     "contributors": [
       {
         "name": "Per Åkerberg",
         "email": "per.akerberg@live.se",
-        "commits": 2
+        "commits": 4
       }
     ]
   },
