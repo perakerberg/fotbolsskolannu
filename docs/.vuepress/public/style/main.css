@@ -8,9 +8,13 @@
 .meta-item{
     display: none !important;
 }
+.hidden{
+    display: none;
+}
 @media screen and (max-width: 768px) {
     .home .hero h1, h1, .page h1{
         font-family: 'Luckiest Guy';
         font-size: 3rem;
     }
 }
+    
