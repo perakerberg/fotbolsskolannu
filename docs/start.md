@@ -25,4 +25,7 @@ Med våra två föreningar som grund och med stor hjälp av frivilliga runt omkr
 Det här handlar inte bara om fotboll. Det här handlar framförallt om att ha roligt tillsammans, att göra något speciellt under sommarlovets första dagar. Dagar att minnas - länge!
 
 <img src="/images/leende.jpg" width="100%">
+
+
+### [Läs mer om fotbollssskolan](om)
     
