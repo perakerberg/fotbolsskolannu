@@ -235,4 +235,35 @@ animation: bounce-in-right 2s ease forwards;
 
 }
 }
+
+@media screen and (max-width: 400px) {
+.dates{
+   font-size: 12px;
+}
+
+.logo{
+
+    border-radius: 10px;    
+    height: 350px;
+    width:300px;
+    padding: 1rem;
+
+.sommarens{
+    font-size: 46px;
+}
+.roligaste{
+    font-size: 56px;
+}
+.dagar{
+    font-size: 95px;
+}
+.club-logos{
+    height: 55px;
+}
+.ifk-logo, .svff-logo, .hif-logo{
+    height: 55px;
+}
+
+}
+}
 </style>
