@@ -2,8 +2,12 @@ export const themeData = {
   "logo": "/images/logo_v4.png",
   "navbar": [
     {
-      "text": "Start",
+      "text": "[Start]",
       "link": "/start"
+    },
+    {
+      "text": "Ledare sökes!",
+      "link": "/ledare-sokes"
     },
     {
       "text": "Om",
