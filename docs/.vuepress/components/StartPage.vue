@@ -213,7 +213,7 @@ animation: bounce-in-right 2s ease forwards;
 .logo{
 
     border-radius: 10px;    
-    height: 380px;
+    height: 400px;
     width:380px;
     padding: 1rem;
 
