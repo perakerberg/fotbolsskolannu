@@ -17,6 +17,8 @@ Har du en idé om hur vi kan göra detta till *sommarens roligaste dagar*? Vad d
   </p>
   
   <div style="display: fle; flex-direction: column">
+     <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;"> Ditt namn:</span>
+      <input type="text" name="name" style="font-size: 1.5rem; width: 90%" />
     <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;"> Din e-postadress:</span>
       <input type="text" name="email" style="font-size: 1.5rem; width: 90%" />
    <span style="font-family: Luckiest Guy; font-size: 1.5rem; padding-top: 1rem; display:block;">Meddelande</span> 
