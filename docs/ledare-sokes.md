@@ -23,8 +23,34 @@ Självklart vill du vara med!
 - Du behöver vara tillgänglig mellan **08.30 - 13:30** varje dag. 
 - Vi bjuder självklart på lunch :pizza:. 
 
-#### Anmäl ditt intresse till:
-- Namn Namnsson, mail, telefon
+## Anmäl ditt intresse här:
+<form
+  name="coaches"
+  method="POST"
+  netlify-honeypot="bot-field"
+  data-netlify="true"
+  action="/tack"
+>
+  <p class="hidden">
+    <label>
+      Don’t fill this out if you’re human: <input name="bot-field" />
+    </label>
+  </p>
+  
+  <div style="display: fle; flex-direction: column">
+    <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;">Namn: </span>
+      <input type="text" name="email" style="font-size: 1.5rem; width: 90%" />
+    <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;"> E-postadress:</span>
+      <input type="text" name="email" style="font-size: 1.5rem; width: 90%" />
+   <span style="font-family: Luckiest Guy; font-size: 1.5rem; padding-top: 1rem; display:block;">Ev. meddelande</span> 
+   <textarea name="message" rows="5" style="font-size: 1.2rem; width: 90%"/>
+   
+  </div>
+  
+  <p>
+    <button type="submit" style="font-family: Luckiest Guy; font-size: 2rem; padding-top:6px">Skicka</button>
+  </p>
+</form>
 
 
 <img src="/images/logo_v4.png" height="300px" style="display:flex"/>

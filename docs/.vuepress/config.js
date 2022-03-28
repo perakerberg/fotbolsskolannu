@@ -19,13 +19,12 @@ module.exports = {
     themeConfig: {
       logo: '/images/logo_v4.png',
       navbar: [
-        { text: 'LEDARE SÖKES!', link: '/ledare-sokes' },
-        { text: '[Start]', link: '/start' },
-        { text: 'Anmälan', link: '/anmalan' },
-        { text: 'Schema', link: '/schema' },
+       
+        { text: 'Start', link: '/start' },
         { text: 'Om', link: '/om' },
         { text: 'Kontakt', link: '/kontakt' },
-        { text: 'Lira blågult', link: 'https://vastergotland.svenskfotboll.se/forening/fotbollsskolan--lira-blagult/' }
+        { text: 'Schema', link: '/schema' },
+     
       ],
       sidebar: false,
     

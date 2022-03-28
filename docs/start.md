@@ -10,7 +10,7 @@ Den **20-22 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för a
 > Planeringen är i full gång och [vi söker ungdomsledare](ledare-sokes)
 
 ## För _alla_ barn
-Alla barn mellan 6-12 år (födda 2016-2010) är välkomna. Tjej eller kille, om du ha spelat mycket fotboll förut eller inte alls, om du tränar fotboll på fritiden eller gör något helt annat - du är lika välkommen! Det här gör vi för alla barn mellan 6-12 år. Och du - det är **gratis**, så alla kan vara med.
+Alla barn mellan 6-12 år (födda 2016-2010) är välkomna. Tjej eller kille, om du har spelat mycket fotboll förut eller inte alls, om du tränar fotboll på fritiden eller gör något helt annat - du är lika välkommen! Det här gör vi för alla barn mellan 6-12 år. Och du - det är **gratis**, så alla kan vara med.
 
 <img src="/images/hif_banken.jpeg" width="100%"/>
 
