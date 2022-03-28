@@ -5,7 +5,7 @@ Alla barn födda 2010 – 2016 är välkomna. Att vara med är <strong>gratis</s
 <p>Fotbollsskolan arrangeras över tre dagar, mellan <strong>09:00</strong> och <strong>13:00</strong>. Varje dag inleds med samling och avslutas med lunch. Barnen delas in i mindre grupper, som leds av våra ungdomsledare. I bakgrunden finns ordinarie ledare från både IFK Öxnevalla och Horreds IF för att se till så att allt flyter på och känns tryggt för både barn och ledare.</p>
 <p>Alla som deltar i fotbollsskolan får ett kit med fotboll, vattenflaska och tröja - för <strong>under fotbollsskolan spelar vi alla i samma lag</strong>!</p>
 <img src="https://aktiva.svenskfotboll.se/493891/globalassets/svff/bilderblock/aktiva/fotbollsskolan/produkterfs.jpg/contentlarge"/>
-<p>Vi har ett samarbete med fritids på Sjöbyskolan och Letebo så att barn med fritidsplacering blir både hämtade och lämnade på fritids. Under en av dagarna tar vi oss gemensamt med buss till Hedevallen i Öxnevalla och kör fotbollsskolan där, som ett eget litet äventyr!🚌</p>
+<p>Vi har ett samarbete med fritids på Sjöbyskolan och Leteboskolan så att barn med fritidsplacering blir både hämtade och lämnade på fritids. Under en av dagarna tar vi oss gemensamt med buss till Hedevallen i Öxnevalla och kör fotbollsskolan där, som ett eget litet äventyr!🚌</p>
 <p>Allt som allt - tre riktigt härliga dagar att se fram emot och tänka tillbaka på. Hoppas att vi ses!☀️
 <img src="/images/horred-spelar.jpg" width="100%" ></p>
 <h3 id="syfte" tabindex="-1"><a class="header-anchor" href="#syfte" aria-hidden="true">#</a> Syfte</h3>

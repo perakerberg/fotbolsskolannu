@@ -12,7 +12,7 @@ Alla som deltar i fotbollsskolan får ett kit med fotboll, vattenflaska och trö
 <img src="https://aktiva.svenskfotboll.se/493891/globalassets/svff/bilderblock/aktiva/fotbollsskolan/produkterfs.jpg/contentlarge"/>
 
 
-Vi har ett samarbete med fritids på Sjöbyskolan och Letebo så att barn med fritidsplacering blir både hämtade och lämnade på fritids. Under en av dagarna tar vi oss gemensamt med buss till Hedevallen i Öxnevalla och kör fotbollsskolan där, som ett eget litet äventyr!:bus:
+Vi har ett samarbete med fritids på Sjöbyskolan och Leteboskolan så att barn med fritidsplacering blir både hämtade och lämnade på fritids. Under en av dagarna tar vi oss gemensamt med buss till Hedevallen i Öxnevalla och kör fotbollsskolan där, som ett eget litet äventyr!:bus:
 
 Allt som allt - tre riktigt härliga dagar att se fram emot och tänka tillbaka på. Hoppas att vi ses!:sunny:
 <img src="/images/horred-spelar.jpg" width="100%" >
