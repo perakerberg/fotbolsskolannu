@@ -1,6 +1,6 @@
 # Ledare sökes!
 
-Är du 14 år eller äldre? Vill du vara med och skapa _sommarens roligaste dagar_ för barn mellan 6-12 år? Vill du få en erfarenhet att ta med dig för lång tid framöver?
+Fyller du minst 14 år i år? Vill du vara med och skapa _sommarens roligaste dagar_ för barn mellan 6-12 år? Vill du få en erfarenhet att ta med dig för lång tid framöver?
 
 Just nu söker vi dig som vill vara ledare för en mindre grupp barn i åldrarna 6-12 år, både tjejer och killar. Även om det är en fotbollsskola så är dina möjligheter större än så. Visst kommer vi öva på fotboll, men också leka lekar, se till att gruppen håller ihop och är på bra humör. En utmaning, javisst - men vi lovar att det ger så mycket tillbaka. 
 
@@ -42,6 +42,8 @@ Självklart vill du vara med!
       <input type="text" name="name" style="font-size: 1.5rem; width: 90%" />
     <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;"> E-postadress:</span>
       <input type="text" name="email" style="font-size: 1.5rem; width: 90%" />
+      <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;"> Telefonnummer:</span>
+      <input type="text" name="phone" style="font-size: 1.5rem; width: 90%" />
    <span style="font-family: Luckiest Guy; font-size: 1.5rem; padding-top: 1rem; display:block;">Ev. meddelande</span> 
    <textarea name="message" rows="5" style="font-size: 1.2rem; width: 90%"/>
    
