@@ -10,6 +10,10 @@ export const themeData = {
       "link": "/ledare-sokes"
     },
     {
+      "text": "Anmälan",
+      "link": "/anmalan"
+    },
+    {
       "text": "Om",
       "link": "/om"
     },
