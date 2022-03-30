@@ -7,7 +7,14 @@ export const data = {
     "title": "Anmälan"
   },
   "excerpt": "",
-  "headers": [],
+  "headers": [
+    {
+      "level": 2,
+      "title": "Länk till anmälan",
+      "slug": "lank-till-anmalan",
+      "children": []
+    }
+  ],
   "git": {
     "updatedTime": 1647893921000,
     "contributors": [

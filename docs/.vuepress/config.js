@@ -22,6 +22,7 @@ module.exports = {
        
         { text: '[Start]', link: '/start' },
         { text: 'Ledare sökes!', link: '/ledare-sokes' },
+      
         { text: 'Om', link: '/om' },
         { text: 'Kontakt', link: '/kontakt' },
         { text: 'Schema', link: '/schema' },
