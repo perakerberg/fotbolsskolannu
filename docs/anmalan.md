@@ -4,7 +4,8 @@ title: Anmälan
 # Anmälan 
 Nu är anmälan till fotbollsskolan öppen!
 Registeringen sker via Svenska fotbollsförbundets hemsida och är enkel att gå igenom. 
-Observera att det finns ett begränsat antal platser, så anmäl dig redan idag!
+Det finns ett *begränsat antal platser*, så anmäl dig redan idag! :soccer: :running_woman: :running_man: 
+
 Om du har några frågor eller funderingar, [kontakta oss](kontakt)!
 
 ## Länk till anmälan
