@@ -1,5 +1,5 @@
 <template><h1 id="schema" tabindex="-1"><a class="header-anchor" href="#schema" aria-hidden="true">#</a> Schema</h1>
-<p>Här kommer ni finna dagschecmat för fotbollskolan, när det är spikat!</p>
+<p>Här kommer ni finna dagsschemat för fotbollskolan, när det är spikat!</p>
 <h2 id="mandag-20-juni" tabindex="-1"><a class="header-anchor" href="#mandag-20-juni" aria-hidden="true">#</a> Måndag 20 Juni</h2>
 <table>
 <thead>
@@ -12,6 +12,10 @@
 <tr>
 <td>09:00</td>
 <td>Upprop på Eksätersvallen</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>Tack för idag!</td>
 </tr>
 </tbody>
 </table>
@@ -32,6 +36,10 @@
 <td>09:10</td>
 <td>Avfärd med buss mot Hedevallen, Öxnevalla</td>
 </tr>
+<tr>
+<td>13:00</td>
+<td>Tack för idag!</td>
+</tr>
 </tbody>
 </table>
 <h2 id="onsdag-22-juni" tabindex="-1"><a class="header-anchor" href="#onsdag-22-juni" aria-hidden="true">#</a> Onsdag 22 juni</h2>
@@ -46,6 +54,10 @@
 <tr>
 <td>09:00</td>
 <td>Upprop på Eksätersvallen</td>
+</tr>
+<tr>
+<td>13:00</td>
+<td>Fotbollsskolan slut!</td>
 </tr>
 </tbody>
 </table>
