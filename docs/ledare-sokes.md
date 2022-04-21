@@ -12,7 +12,7 @@ Alla ledare får ett ledarpaket med riktigt schyssta träningskläder, det ska j
 
 <img src="https://aktiva.svenskfotboll.se/493521/globalassets/svff/bilderblock/aktiva/fotbollsskolan/fotbollsskolan_ledarklader.jpg/contentlarge"/>
 
-Dessutom kommer vi från föreningarnas sida erbjuda en liten symbolisk ersättning, som ett extra tack till dig. För det här är inte vilka dagar som helst - det är **sommarens bästa dagar**! 
+Dessutom kommer vi från föreningarnas sida erbjuda en liten symbolisk ersättning, som ett extra tack till dig. För det här är inte vilka dagar som helst - det är **sommarens roligaste dagar**! 
 
 Självklart vill du vara med!
 
