@@ -11,6 +11,7 @@ const routeItems = [
   ["v-6f9a3970","/start.html",{"title":"Startsida"},["/start","/start.md"]],
   ["v-8fbd50ea","/tack.html",{"title":"Tack!"},["/tack","/tack.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
+  ["v-6ed97500","/ledare-info.html",{"title":"Ledarinformation"},["/ledare-info","/ledare-info.md"]],
 ]
 
 export const pagesRoutes = routeItems.reduce(

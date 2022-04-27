@@ -19,4 +19,6 @@ export const pagesData = {
   "v-8fbd50ea": () => import(/* webpackChunkName: "v-8fbd50ea" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/tack.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
+  // path: /ledare-info.html
+  "v-6ed97500": () => import(/* webpackChunkName: "v-6ed97500" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/ledare-info.html.js").then(({ data }) => data),
 }
