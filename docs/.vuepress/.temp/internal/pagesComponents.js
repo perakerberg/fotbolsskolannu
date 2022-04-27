@@ -23,4 +23,6 @@ export const pagesComponents = {
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/404.html.vue")),
   // path: /ledare-info.html
   "v-6ed97500": defineAsyncComponent(() => import(/* webpackChunkName: "v-6ed97500" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/ledare-info.html.vue")),
+  // path: /tack-ledare.html
+  "v-eb4c1e5e": defineAsyncComponent(() => import(/* webpackChunkName: "v-eb4c1e5e" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/tack-ledare.html.vue")),
 }

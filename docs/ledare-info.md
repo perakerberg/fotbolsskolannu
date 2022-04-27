@@ -30,7 +30,7 @@ OBS! Gör detta även om du har uppgett dem till oss tidigare, så har vi alla p
   method="POST"
   netlify-honeypot="bot-field"
   data-netlify="true"
-  action="/tack"
+  action="/tack-ledare"
 >
   <p class="hidden">
     <label>
