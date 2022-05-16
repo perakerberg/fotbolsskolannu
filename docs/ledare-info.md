@@ -86,4 +86,6 @@ OBS! Gör detta även om du har uppgett dem till oss tidigare, så har vi alla p
   </p>
 </form>
 
+
+
 <div style="font-family: Luckiest Guy; font-size:2rem; margin-top:2rem; display: block;">Glöm inte: Utbildning 2 juni 17:30!</div>
