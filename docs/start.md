@@ -1,14 +1,17 @@
 ---
 title: Startsida
 ---
-<script src="https://cdn.logwork.com/widget/countdown.js"></script>
-<a href="https://logwork.com/countdown-7yq8" class="countdown-timer" data-timezone="Europe/Stockholm" data-language="sv" data-date="2022-06-20 09:00">Fotbollsskolan 2022</a>
+
 # Välkommen!
 
 Den **20-22 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för alla barn mellan 6-12 år. Vi hoppas att det blir tre fartfyllda, soliga dagar med mycket lek, skratt och energi. Efterhand som planeringen går vidare kommer du hitta all information på den här sidan.
 
 > **Anmäl dig till fotbollsskolan:** 
->FÅTAL platser kvar, anmäl dig innan de tar slut! [Anmäl dig här.](anmalan)
+> Just nu är **95** barn anmälda till fotbollsskolan, superkul! *Enstaka* platser kvar, anmäl dig innan de tar slut! [Anmäl dig här.](anmalan)
+
+> **Fantastiskt intresse för att vara ledare :heart::** 
+> Vi är så glada över att så många ungdomar ville ställa upp som ledare. Hela **19** tjejer och killar är anmälda och klara, den **2 juni** samlas vi för gemensam utbildning tillsammans med VFF. :soccer: 
+
 
 ## För _alla_ barn
 Alla barn mellan 6-12 år (födda 2016-2010) är välkomna. Tjej eller kille, om du har spelat mycket fotboll förut eller inte alls, om du tränar fotboll på fritiden eller gör något helt annat - du är lika välkommen! Det här gör vi för alla barn mellan 6-12 år. Och du - det är **gratis**, så alla kan vara med.
