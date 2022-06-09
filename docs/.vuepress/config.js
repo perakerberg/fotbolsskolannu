@@ -21,7 +21,6 @@ module.exports = {
       navbar: [
        
         { text: '[Start]', link: '/start' },
-        { text: 'Anmälan', link: '/anmalan' },
         { text: 'Om', link: '/om' },
         { text: 'Kontakt', link: '/kontakt' },
         { text: 'Schema', link: '/schema' },
