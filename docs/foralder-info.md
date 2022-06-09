@@ -25,14 +25,14 @@ Barnen får INTE ha med sig / på sig:
 allergier. Undvik helst medhavd mat/dryck/snacks helt.
 
 ## Schema
-Måndag 20 Juni:
+**Måndag 20 Juni**:
 Vi samlas och delas in i våra respektive grupper. Varje grupp består av 7-14 barn, åldersindelat.Grupperna består av tjejer och killar och leds av två ungdomsledare, en tjej och en kille. Gruppen genomför olika stationer tillsammans där de lär sig och leker fotboll. Dagen avslutas med lunch (Hamburgare med bröd)
 
-Tisdag 21 Juni:
+**Tisdag 21 Juni**:
 Vi samlas vid Eksätersvallen för vidare färd i bussar ut till Hedevallen i Öxnevalla - ett litet äventyr i sig...
 Väl ute i Öxnevalla samlas grupperna igen och fortsätter med stationsövningar. Dagen avslutas med lunch (korv med bröd) innan vi sätter oss i bussarna och är åter vid Eksätersvallen 13:00. OBS! Alla barn åker tur- och retur med bussen, även de som kanske bor närmre Öxnevalla. Vi gör detta tillsammans, som en rolig grej.
 
-## Onsdag 22 Juni:
+**Onsdag 22 Juni**:
 Sista dagen samlas vi som vanligt i våra grupper. Men idag delas vi in i blandade lag och kör en avslutningsturnering tillsammans. Många matcher och lika många skratt. Vi avrundar med lunch (Pizza), utdelning av diplom och tackar för tre roliga dagar tillsammans.
 
 ## Våra ledare och du som förälder
