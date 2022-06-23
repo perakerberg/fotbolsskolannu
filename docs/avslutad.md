@@ -1,18 +1,22 @@
 # TACK!
 
-<img src="/images/skolan-alla.png" width="100%"/>
+<img src="/images/alla.png" width="100%"/>
 
 Tänk att _sommarens roligaste dagar_ äntligen kom! Vilka härliga förmiddagar vi har haft. Nästan 100 barn skapade ett myller av lek, fotboll och skratt - som hördes över hela byn. Vi är övertygade om att vi lyckats skapa minnen som består, kanske för livet. 
 
 Vi vill rikta ett stort tack till alla som hjälpt till på olika sätt. Utan er hade _sommarens roligaste dagar_ förblivit en idé. 
 
-<img src="/images/skolan-grupp.png" width="100%"/>
+<img src="/images/edward.png" width="100%"/>
+
+<img src="/images/elise.png" width="100%"/>
 
 Först och främst, tack till **alla fantastiska ungdomsledare** som gav sig rakt in i hetluften utan den minsta tvekan. Som gick på utbildning och var på plats tidigt varje morgon. Som med sitt engagemang blev idoler och kompisar för alla barn. **Amadeus**, **Linnea**, **Clara**, **Olle**, **Emil**, **Ebba**, **Hugo**, **Ellijot**, **Carl**, **Amelia**, **Valle**, **Edward**, **Elin**, **Elise**, **Weronika**, **Jacob**, **Tyra**, **Tilia**, **Simon** & **Frida** -  ni var och är verkligen helt otroliga! :star:
 
 <img src="/images/skolan-banan.png" width="100%"/>
 
 Tack till **alla barn** och deras **föräldrar** som anmälde sig till vår fotbollsskola - så att vi redan tidigt såg att dagarna skulle fyllas till bredden med barn. Glädjen i barnens ansikten går inte att ta miste på - de gav allt!
+
+<img src="/images/spel3mot3.png" width="100%"/>
 
 <img src="/images/hif_logo.png" height="200px" style="margin-right: 1rem">
 <img src="/images/ifk_logo.png" height="200px">
@@ -25,7 +29,12 @@ Alla sponsorer har verkligen satt guldkant på fotbollsskolan. **Horredstrafiken
 
 <img src="/images/skolan-snedd.png" width="100%"/>
 
+
+<img src="/images/skogen.png" width="100%"/>
+
 Men för att ro projektet i hamn behövde vi frivilliga som ställde upp - och *som* de ställde upp. Tack till matgänget i Horred, med **Harriet**, **Solbritt**, **Tatiana**, **Ingbritt** och **Lisbeth** i spetsen. Tack till **SPF Seniorerna Horredsbygden** för förstklassig korvgrillning och servering i Öxnevalla. Tack till alla som ställt upp spontant med plock, omplåstring och fix, som **Erika Larsson**, **Anders Jansson**, **Robin Sten** m fl. Dessutom, tack till **Horreds IFs seniorlag** för att ni tog hand om det stora tältet. Tack till vaktmästare **Christer Kärräng** som ordnat med planer, kritning och röjning, städ av grillar mm i Horred. Tack också **Martin Andersson** som sett till att Hedevallen i Öxnevalla stod förberedd för hundratals barn. 
+
+<img src="/images/maten.png" width="100%"/>
 
 Stort tack till **Sjöbyskolans fritids** som såg till att alla barn levererades och hämtades därifrån. Och **Maria Åkerberg** som agerade skolskjuts från Letebo.
 
