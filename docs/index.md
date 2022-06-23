@@ -44,7 +44,9 @@ Stort tack till **Sjöbyskolans fritids** som såg till att alla barn levererade
 
 **Svenska fotbollsförbundet** ser till att _landslagets fotbollsskola_ fortsätter varje år. Det uppskattar vi väldigt mycket!
 
-Ett alldeles speciellt tack till **Emil Olsson** för dina snabba svar, lösningsorienterade tänk och glada hejarop! :heart:
+Ett alldeles speciellt tack till **Emil Olsson** för dina snabba svar, lösningsorienterade tänk och glada hejarop! :bus: :heart:
+
+Och tack **Rosmarie Eriksson** för alla fina foton. Vilken stjärna du är! :camera:
 
 ## Slutligen
 Det finns så många som ställt upp och gjort fotbollskolan _sommarens roligaste dagar_ till vad de blev - en jättesuccé. Säkert har vi glömt någon, men allas insats behövdes och uppskattades stort!
