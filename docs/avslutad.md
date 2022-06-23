@@ -10,6 +10,9 @@ Vi vill rikta ett stort tack till alla som hjälpt till på olika sätt. Utan er
 
 <img src="/images/elise.png" width="100%"/>
 
+
+<img src="/images/linnea.png" width="100%"/>
+
 Först och främst, tack till **alla fantastiska ungdomsledare** som gav sig rakt in i hetluften utan den minsta tvekan. Som gick på utbildning och var på plats tidigt varje morgon. Som med sitt engagemang blev idoler och kompisar för alla barn. **Amadeus**, **Linnea**, **Clara**, **Olle**, **Emil**, **Ebba**, **Hugo**, **Ellijot**, **Carl**, **Amelia**, **Valle**, **Edward**, **Elin**, **Elise**, **Weronika**, **Jacob**, **Tyra**, **Tilia**, **Simon** & **Frida** -  ni var och är verkligen helt otroliga! :star:
 
 <img src="/images/skolan-banan.png" width="100%"/>
@@ -18,8 +21,7 @@ Tack till **alla barn** och deras **föräldrar** som anmälde sig till vår fot
 
 <img src="/images/spel3mot3.png" width="100%"/>
 
-<img src="/images/hif_logo.png" height="200px" style="margin-right: 1rem">
-<img src="/images/ifk_logo.png" height="200px">
+<img src="/images/spelare.png" width="100%"/>
 
 Vi gav oss in i projektet med utgångspunkten att skolan skulle vara *gratis*. Föreningarna **Horreds IF** och **IFK Öxnevalla** sa ja direkt - vi är beredda att ta kostnaden, för våra barn och ungdomar. Men tack vare ett generöst stöd från **Marks kommun** kunde vi inte bara genomföra dagarna som vi önskade - föreningarna kan lägga resurserna på framtida verksamhet och de nya spelare och ledare vi hittat under skolan.
 
