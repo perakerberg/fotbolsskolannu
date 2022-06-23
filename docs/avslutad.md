@@ -11,6 +11,8 @@ Först och främst, tack till **alla fantastiska ungdomsledare** som gav sig rak
 <img src="/images/skolan-banan.png" width="100%"/>
 Tack till **alla barn** och deras **föräldrar** som anmälde sig till vår fotbollsskola - så att vi redan tidigt såg att dagarna skulle fyllas till bredden med barn. Glädjen i barnens ansikten går inte att ta miste på - de gav allt!
 
+<img src="/images/hif_logo.png" height="200px" style="margin-right: 1rem">
+<img src="/images/ifk_logo.png" height="200px">
 Vi gav oss in i projektet med utgångspunkten att skolan skulle vara *gratis*. Föreningarna **Horreds IF** och **IFK Öxnevalla** sa ja direkt - vi är beredda att ta kostnaden, för våra barn och ungdomar. Men tack vare ett generöst stöd från **Marks kommun** kunde vi inte bara genomföra dagarna som vi önskade - föreningarna kan lägga resurserna på framtida verksamhet och de nya spelare och ledare vi hittat under skolan.
 
 <img src="/images/skolan-buss.png" width="100%"/>
