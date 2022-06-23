@@ -20,7 +20,8 @@ module.exports = {
       logo: '/images/logo_v4.png',
       navbar: [
        
-        { text: '[Start]', link: '/start' },
+        // { text: '[Start]', link: '/start' },
+
         { text: 'Om', link: '/om' },
         { text: 'Kontakt', link: '/kontakt' },
         // { text: 'Schema', link: '/schema' },
