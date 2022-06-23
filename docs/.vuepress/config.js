@@ -23,7 +23,7 @@ module.exports = {
         { text: '[Start]', link: '/start' },
         { text: 'Om', link: '/om' },
         { text: 'Kontakt', link: '/kontakt' },
-        { text: 'Schema', link: '/schema' },
+        // { text: 'Schema', link: '/schema' },
      
       ],
       sidebar: false,
