@@ -2,7 +2,7 @@
 
 <img src="/images/skolan-alla.png" width="100%"/>
 
-Tänk att _sommarens bästa dagar_ äntligen kom! Vilka härliga förmniddagar vi har haft. Nästan 100 barn skapade ett myller av lek, fotboll och skratt - som hördes över hela byn. Vi är övertygade om att vi lyckats skapa minnen som består, kanske för livet. 
+Tänk att _sommarens roligaste dagar_ äntligen kom! Vilka härliga förmniddagar vi har haft. Nästan 100 barn skapade ett myller av lek, fotboll och skratt - som hördes över hela byn. Vi är övertygade om att vi lyckats skapa minnen som består, kanske för livet. 
 
 Vi vill rikta ett stort tack till alla som hjälpt till på olika sätt. Utan er hade _sommarens roligaste dagar_ förblivit en idé. 
 
