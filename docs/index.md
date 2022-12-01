@@ -29,7 +29,7 @@ Vi gav oss in i projektet med utgångspunkten att skolan skulle vara *gratis*. F
 
 Alla sponsorer har verkligen satt guldkant på fotbollsskolan. **Horredstrafiken** stod för både skjuts och ett stort äventyr när fotbollsskolan för första gången besökte Öxnevalla - wow! Tack till **Vik Gård** för att vi kunde bjuda på fantastisk lokalproducerad korv, till **Bil & Motor** för att barnen fick glass sista dagen, till **Horredsmattan** och **Spira of Sweden** för att vi kunde hyra den stora hinderbanan, **ICA Nära Horred** som ordnade frukt varenda dag till varje barn. Tänk vilken skillnad våra lokala företag gör!
 
-<img src="/images/skolan-snedd.png" width="100%"/>
+<img src="https://res.cloudinary.com/dpd5cqqpz/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1669838070/skolan-snedd.png" width="100%"/>
 
 
 <img src="/images/skogen.png" width="100%"/>
