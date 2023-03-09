@@ -13,13 +13,19 @@ Den **19-21 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för a
 
 Nu kan du anmäla ditt barn till fotbollskolan. Förra året fyllde vi samtliga platser, så vänta inte - gör en anmälan redan idag!
 
+:bulb: **Tips!** Välj gärna en storlek större på t-shirt :tshirt: i anmälan. De är små i storlekarna!
+
 <div class="anmal-button">
     <div class="anmal-button__link">
     <a href="https://start.landslagetsfotbollsskola.se/sv/clubs/8701-horreds-if-ifk-oxnevalla/event/4785-fotbollsskolan-horred-oxnevalla/webanmalan/new" target="_blank">Anmäl ditt barn här!</a>
     </div>
 </div>
 
-_OBS! Det kan vara problem med att öppna länken till anmälan på iphone via länken på Facebook eller i Messenger. Men det går att lösa - [här finns en lösning](iphone-problem)_
+---
+
+_Det kan vara problem med att öppna länken till anmälan på iphone via länken på Facebook eller i Messenger. Men det går att lösa - [här finns en lösning](iphone-problem)_
+
+---
 
 ## För _alla_ barn
 
