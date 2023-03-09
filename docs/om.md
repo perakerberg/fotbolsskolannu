@@ -5,13 +5,13 @@ Alla barn födda 2010 – 2017 är välkomna. Att vara med är **gratis**.
 
 <img src="https://res.cloudinary.com/dpd5cqqpz/image/upload/w_1000,ar_16:9,c_fill,g_auto/v1678372510/fotbollsskola/IMG_7257_bfa8pg.jpg" width="100%"/>
 
-Fotbollsskolan arrangeras över tre dagar, mellan **09:00** och **13:00** (ca-tider, mer informatiokn kommer framöver!). Varje dag inleds med samling och avslutas med lunch. Barnen delas in i mindre grupper, som leds av våra ungdomsledare. I bakgrunden finns ordinarie ledare från både IFK Öxnevalla och Horreds IF för att se till så att allt flyter på och känns tryggt för både barn och ledare.
+Fotbollsskolan arrangeras över tre dagar, mellan **09:00** och **13:00**. Varje dag inleds med samling och avslutas med lunch. Barnen delas in i mindre grupper, som leds av våra ungdomsledare. I bakgrunden finns ordinarie ledare från både IFK Öxnevalla och Horreds IF för att se till så att allt flyter på och känns tryggt för både barn och ledare.
 
 Alla som deltar i fotbollsskolan får ett kit med fotboll, vattenflaska och tröja - för **under fotbollsskolan spelar vi alla i samma lag**!
 
 <img src="https://aktiva.svenskfotboll.se/493891/globalassets/svff/bilderblock/aktiva/fotbollsskolan/produkterfs.jpg/contentlarge"/>
 
-Vi har ett samarbete med fritids på Sjöbyskolan och Leteboskolan så att barn med fritidsplacering blir både hämtade och lämnade på fritids. Under en av dagarna tar vi oss gemensamt med buss till Hedevallen i Öxnevalla och kör fotbollsskolan där, som ett eget litet äventyr!:bus:
+Vi har ett samarbete med fritids på Sjöbyskolan så att barn med fritidsplacering blir både hämtade och lämnade på fritids. För de barn som går på förskola eller något annat fritids får föräldrarna själva ordna hämtning och lämning. Men där brukar föräldrarna kunna hjälpas åt. Under en av dagarna tar vi oss gemensamt med buss till Hedevallen i Öxnevalla och kör fotbollsskolan där, som ett eget litet äventyr!:bus:
 
 Allt som allt - tre riktigt härliga dagar att se fram emot och tänka tillbaka på. Hoppas att vi ses!:sunny:
 <img src="https://res.cloudinary.com/dpd5cqqpz/image/upload/w_1000,ar_16:9,c_fill,g_auto/v1678372512/fotbollsskola/skogen_um3ccc.jpg" width="100%" >

@@ -9,8 +9,15 @@ Den **19-21 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för a
 > **Just nu: Vi söker ledare!**
 > Du som är 14 år eller äldre har en fantastisk möjlighet att vara med på fotbollskolan som ledare. Anmäl ditt intresse [här](ledare-sokes)
 
-> **Inom kort: Anmälan öppnar**
-> Snart öppnar vi anmälan till årets _sommarens roligaste dagar_. Håll utkik!
+## Anmälan är öppen!
+
+Nu kan du anmäla ditt barn till fotbollskolan. Förra året fyllde vi samtliga platser, så vänta inte - gör en anmälan redan idag!
+
+<div class="anmal-button">
+    <div class="anmal-button__link">
+    <a href="https://start.landslagetsfotbollsskola.se/sv/clubs/8701-horreds-if-ifk-oxnevalla/event/4785-fotbollsskolan-horred-oxnevalla/webanmalan/new" target="_blank">Anmäl ditt barn här!</a>
+    </div>
+</div>
 
 ## För _alla_ barn
 
