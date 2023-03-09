@@ -24,8 +24,8 @@ Självklart vill du vara med!
 
 - Fotbollsskolan arrangeras gemensamt av **IFK Öxnevalla** och **Horreds IF**.
 - Vi träffas för en utbildning i SvFFs material samt går igenom upplägget för vår fotbollskola.
-- Fotbollsskolan är den **19-21 Juni 2022**.
-- Du behöver vara tillgänglig mellan **08.30 - 13:30** varje dag.
+- Fotbollsskolan är den **19-21 Juni 2023**.
+- Du behöver vara tillgänglig mellan **08.30 - 13:30** varje dag, med fullt fokus på din grupp.
 - Vi bjuder självklart på lunch :pizza:.
 
 ### Till dig som varit med som ledare förut

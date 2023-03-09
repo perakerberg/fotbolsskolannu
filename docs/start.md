@@ -19,6 +19,8 @@ Nu kan du anmäla ditt barn till fotbollskolan. Förra året fyllde vi samtliga 
     </div>
 </div>
 
+_OBS! Det kan vara problem med att öppna länken till anmälan på iphone via länken på Facebook eller i Messenger. Men det går att lösa - [här finns en lösning](iphone-problem)_
+
 ## För _alla_ barn
 
 Alla barn mellan 6-13 år (födda 2017-2010) är välkomna. Tjej eller kille, om du har spelat mycket fotboll förut eller inte alls, om du tränar fotboll på fritiden eller gör något helt annat - du är lika välkommen! Det här gör vi för alla barn mellan 6-13 år. Och du - det är **gratis**, så alla kan vara med.

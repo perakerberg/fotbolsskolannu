@@ -1,6 +1,6 @@
 # Fotbollsskolan
 
-Fotbollsskolan är ett nytt samarbetsprojekt mellan bygdens två fotbollsföreningar - _Horreds IF_ & _IFK Öxnevalla_. Konceptet är utvecklat av Svenska Fotbollförbundet och kallas för [Lira blågult](https://vastergotland.svenskfotboll.se/forening/fotbollsskolan--lira-blagult/). Innehållet baseras på Fotbollens *spela, lek och lär* samt spelarutbildningsplanen.
+Fotbollsskolan är ett nytt samarbetsprojekt mellan bygdens två fotbollsföreningar - _Horreds IF_ & _IFK Öxnevalla_. Konceptet är utvecklat av Svenska Fotbollförbundet och kallas för [Lira blågult](https://aktiva.svenskfotboll.se/spelare/fotbollsskolan/delta/). Innehållet baseras på Fotbollens *spela, lek och lär* samt spelarutbildningsplanen.
 Alla barn födda 2010 – 2017 är välkomna. Att vara med är **gratis**.
 
 <img src="https://res.cloudinary.com/dpd5cqqpz/image/upload/w_1000,ar_16:9,c_fill,g_auto/v1678372510/fotbollsskola/IMG_7257_bfa8pg.jpg" width="100%"/>
