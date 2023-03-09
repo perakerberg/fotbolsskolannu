@@ -1,36 +1,4 @@
-export const data = {
-  "key": "v-1692a0a2",
-  "path": "/om.html",
-  "title": "Fotbollsskolan",
-  "lang": "sv-SE",
-  "frontmatter": {},
-  "excerpt": "",
-  "headers": [
-    {
-      "level": 3,
-      "title": "Syfte",
-      "slug": "syfte",
-      "children": []
-    },
-    {
-      "level": 2,
-      "title": "Arrangörer",
-      "slug": "arrangorer",
-      "children": []
-    }
-  ],
-  "git": {
-    "updatedTime": 1648443431000,
-    "contributors": [
-      {
-        "name": "Per Åkerberg",
-        "email": "per.akerberg@live.se",
-        "commits": 6
-      }
-    ]
-  },
-  "filePathRelative": "om.md"
-}
+export const data = JSON.parse("{\"key\":\"v-1692a0a2\",\"path\":\"/om.html\",\"title\":\"Fotbollsskolan\",\"lang\":\"sv-SE\",\"frontmatter\":{},\"headers\":[{\"level\":3,\"title\":\"Syfte\",\"slug\":\"syfte\",\"link\":\"#syfte\",\"children\":[]},{\"level\":2,\"title\":\"Arrangörer\",\"slug\":\"arrangorer\",\"link\":\"#arrangorer\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"om.md\"}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

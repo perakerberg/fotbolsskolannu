@@ -1,4 +1,4 @@
-<template><h1 id="anmalan" tabindex="-1"><a class="header-anchor" href="#anmalan" aria-hidden="true">#</a> Anmälan</h1>
+<template><div><h1 id="anmalan" tabindex="-1"><a class="header-anchor" href="#anmalan" aria-hidden="true">#</a> Anmälan</h1>
 <p>Nu är anmälan till fotbollsskolan öppen!
 Registeringen sker via Svenska fotbollsförbundets hemsida och är enkel att gå igenom.
 Det finns ett <em>begränsat antal platser</em>, så anmäl dig redan idag! ⚽ 🏃‍♀️ 🏃‍♂️</p>
@@ -15,4 +15,6 @@ Det finns ett <em>begränsat antal platser</em>, så anmäl dig redan idag! ⚽ 
 <div style="display: flex; flex-direction:column;">
 ...och välj "öppna i webbläsare".
 <img style="max-width:400px" src="/images/browser-fix.png"/>
-</div></template>
+</div></div></template>
+
+

@@ -65,6 +65,8 @@ typings/
 # next.js build output
 .next
 
+.temp
+
 # nuxt.js build output
 .nuxt
 
@@ -89,5 +91,4 @@ sw.*
 # Vim swap files
 *.swp
 
-docs/.vuepress/.temp
 

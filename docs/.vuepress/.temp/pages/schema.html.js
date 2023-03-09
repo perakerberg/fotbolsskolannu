@@ -1,42 +1,4 @@
-export const data = {
-  "key": "v-187de182",
-  "path": "/schema.html",
-  "title": "Schema",
-  "lang": "sv-SE",
-  "frontmatter": {},
-  "excerpt": "",
-  "headers": [
-    {
-      "level": 2,
-      "title": "Måndag 20 Juni",
-      "slug": "mandag-20-juni",
-      "children": []
-    },
-    {
-      "level": 2,
-      "title": "Tisdag 21 Juni",
-      "slug": "tisdag-21-juni",
-      "children": []
-    },
-    {
-      "level": 2,
-      "title": "Onsdag 22 juni",
-      "slug": "onsdag-22-juni",
-      "children": []
-    }
-  ],
-  "git": {
-    "updatedTime": 1648751022000,
-    "contributors": [
-      {
-        "name": "Per Åkerberg",
-        "email": "per.akerberg@live.se",
-        "commits": 3
-      }
-    ]
-  },
-  "filePathRelative": "schema.md"
-}
+export const data = JSON.parse("{\"key\":\"v-187de182\",\"path\":\"/schema.html\",\"title\":\"Schema\",\"lang\":\"sv-SE\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"Måndag 19 Juni\",\"slug\":\"mandag-19-juni\",\"link\":\"#mandag-19-juni\",\"children\":[]},{\"level\":2,\"title\":\"Tisdag 20 Juni\",\"slug\":\"tisdag-20-juni\",\"link\":\"#tisdag-20-juni\",\"children\":[]},{\"level\":2,\"title\":\"Onsdag 21 juni\",\"slug\":\"onsdag-21-juni\",\"link\":\"#onsdag-21-juni\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"schema.md\"}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

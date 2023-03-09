@@ -1,8 +1,8 @@
-<template><h1>Kontakt</h1> 
+<template><div><h1>Kontakt</h1>
 <p>Vill du veta mer? Vill du hjälpa till?
 Har du en idé om hur vi kan göra detta till <em>sommarens roligaste dagar</em>? Vad du än undrar över - tveka inte med att höra av dig till oss! Använd kontaktformuläret, så hör vi av oss så fort som bara möjligt! 🏃‍♀️ 🏃‍♂️</p>
 <form
-  name="contact"
+  name="contact2023"
   method="POST"
   netlify-honeypot="bot-field"
   data-netlify="true"
@@ -24,4 +24,7 @@ Har du en idé om hur vi kan göra detta till <em>sommarens roligaste dagar</em>
   <p>
     <button type="submit" style="font-family: Luckiest Guy; font-size: 2rem; padding-top:6px">Skicka</button>
   </p>
-</form></template>
+</form>
+</div></template>
+
+

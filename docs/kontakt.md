@@ -1,10 +1,10 @@
-<h1>Kontakt</h1> 
+<h1>Kontakt</h1>
 
-Vill du veta mer? Vill du hjälpa till? 
-Har du en idé om hur vi kan göra detta till *sommarens roligaste dagar*? Vad du än undrar över - tveka inte med att höra av dig till oss! Använd kontaktformuläret, så hör vi av oss så fort som bara möjligt! :running_woman: :running_man: 
+Vill du veta mer? Vill du hjälpa till?
+Har du en idé om hur vi kan göra detta till _sommarens roligaste dagar_? Vad du än undrar över - tveka inte med att höra av dig till oss! Använd kontaktformuläret, så hör vi av oss så fort som bara möjligt! :running_woman: :running_man:
 
 <form
-  name="contact"
+  name="contact2023"
   method="POST"
   netlify-honeypot="bot-field"
   data-netlify="true"

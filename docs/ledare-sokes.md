@@ -1,31 +1,41 @@
 # Ledare sökes!
 
-Fyller du minst 14 i år? Vill du vara med och skapa _sommarens roligaste dagar_ för barn mellan 6-12 år? Vill du få en erfarenhet att ta med dig för lång tid framöver?
+Fyller du minst 14 i år? Vill du vara med och skapa _sommarens roligaste dagar_ för barn och ungdomar mellan 6-13 år? Vill du få en erfarenhet att ta med dig för lång tid framöver?
 
-Just nu söker vi dig som vill vara ledare för en mindre grupp barn i åldrarna 6-12 år, både tjejer och killar. Även om det är en fotbollsskola så är dina möjligheter större än så. Visst kommer vi öva på fotboll, men också leka lekar, se till att gruppen håller ihop och är på bra humör. En utmaning, javisst - men vi lovar att det ger så mycket tillbaka. 
+Just nu söker vi dig som vill vara ledare för en mindre grupp barn och ungdomar i åldrarna 6-13 år, både tjejer och killar. Även om det är en fotbollsskola så är dina möjligheter större än så. Visst kommer vi öva på fotboll, men också leka lekar, se till att gruppen håller ihop och är på bra humör. En utmaning, javisst - men vi lovar att det ger så mycket tillbaka.
 
-<img src="/images/ifk_high_five.jpeg" width="100%"/>
+Dessutom - du kommer garanterat bli en förebild, ny kompis och idol :heart: :sunglasses:
+
+<img src="https://res.cloudinary.com/dpd5cqqpz/image/upload/c_crop,g_east,h_2323,w_2707/w_800/v1678372511/fotbollsskola/IMG_7278_r3nrro.png" width="100%"/>
 
 Alla ledare får en särskild utbildning, om ca 3,5 timma, som baseras på material från Svenska fotbollsförbundet. Du lär dig om ledarskap, upplägg för övningar och träningspass för fotbollsskolan. Dessutom finns det självklart vuxna på plats både i förberedelserna inför och under själva fotbollsskolan. Både du och deltagarna är i trygga händer.
 
-Alla ledare får ett ledarpaket med riktigt schyssta träningskläder, det ska ju synas att just du är ledare. 
+Alla ledare får ett ledarpaket med riktigt schyssta träningskläder, det ska ju synas att just du är ledare.
 
 <img src="https://aktiva.svenskfotboll.se/493521/globalassets/svff/bilderblock/aktiva/fotbollsskolan/fotbollsskolan_ledarklader.jpg/contentlarge"/>
 
-Dessutom kommer vi från föreningarnas sida erbjuda en liten symbolisk ersättning, som ett extra tack till dig. För det här är inte vilka dagar som helst - det är **sommarens roligaste dagar**! 
+_Okej, det står 2022 på bilden - men kläderna är minst lika snygga för dig som hämtar ut dem i år_
+
+Dessutom kommer vi från föreningarnas sida erbjuda en liten symbolisk ersättning, som ett extra tack till dig. För det här är inte vilka dagar som helst - det är **sommarens roligaste dagar**!
 
 Självklart vill du vara med!
 
 ### Detaljer
+
 - Fotbollsskolan arrangeras gemensamt av **IFK Öxnevalla** och **Horreds IF**.
 - Vi träffas för en utbildning i SvFFs material samt går igenom upplägget för vår fotbollskola.
-- Fotbollsskolan är den **20-22 Juni 2022**. 
-- Du behöver vara tillgänglig mellan **08.30 - 13:30** varje dag. 
-- Vi bjuder självklart på lunch :pizza:. 
+- Fotbollsskolan är den **19-21 Juni 2022**.
+- Du behöver vara tillgänglig mellan **08.30 - 13:30** varje dag.
+- Vi bjuder självklart på lunch :pizza:.
+
+### Till dig som varit med som ledare förut
+
+Om du redan har varit i kontakt med oss, behöver du inte fylla i formuläret. Vi hoppas också att du har kvar dina ledarkläder :tshirt: :shorts: och att de passar. I annat fall är det bara att du hör av dig.
 
 ## Anmäl ditt intresse här:
+
 <form
-  name="coaches"
+  name="coaches2023"
   method="POST"
   netlify-honeypot="bot-field"
   data-netlify="true"
@@ -54,9 +64,4 @@ Självklart vill du vara med!
   </p>
 </form>
 
-
 <img src="/images/logo_v4.png" height="300px" style="display:flex"/>
-
-
-
-

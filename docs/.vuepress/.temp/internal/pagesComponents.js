@@ -3,6 +3,8 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /anmalan.html
   "v-539aa44c": defineAsyncComponent(() => import(/* webpackChunkName: "v-539aa44c" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/anmalan.html.vue")),
+  // path: /foralder-info.html
+  "v-6bf2deb4": defineAsyncComponent(() => import(/* webpackChunkName: "v-6bf2deb4" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/foralder-info.html.vue")),
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/index.html.vue")),
   // path: /kontakt.html
@@ -19,6 +21,8 @@ export const pagesComponents = {
   "v-20f9ed8a": defineAsyncComponent(() => import(/* webpackChunkName: "v-20f9ed8a" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/sponsorer-sokes.html.vue")),
   // path: /start.html
   "v-6f9a3970": defineAsyncComponent(() => import(/* webpackChunkName: "v-6f9a3970" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/start.html.vue")),
+  // path: /tack-index.html
+  "v-22cdff34": defineAsyncComponent(() => import(/* webpackChunkName: "v-22cdff34" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/tack-index.html.vue")),
   // path: /tack-ledare.html
   "v-eb4c1e5e": defineAsyncComponent(() => import(/* webpackChunkName: "v-eb4c1e5e" */"/Users/perakerberg/code/fotbollskolan/fotbolsskolannu/docs/.vuepress/.temp/pages/tack-ledare.html.vue")),
   // path: /tack.html

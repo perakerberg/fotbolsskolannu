@@ -1,25 +1,4 @@
-export const data = {
-  "key": "v-8daa1a0e",
-  "path": "/",
-  "title": "Startsida",
-  "lang": "sv-SE",
-  "frontmatter": {
-    "title": "Startsida"
-  },
-  "excerpt": "",
-  "headers": [],
-  "git": {
-    "updatedTime": 1648358874000,
-    "contributors": [
-      {
-        "name": "Per Åkerberg",
-        "email": "per.akerberg@live.se",
-        "commits": 5
-      }
-    ]
-  },
-  "filePathRelative": "index.md"
-}
+export const data = JSON.parse("{\"key\":\"v-8daa1a0e\",\"path\":\"/\",\"title\":\"Startsida\",\"lang\":\"sv-SE\",\"frontmatter\":{\"title\":\"Startsida\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"index.md\"}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()
