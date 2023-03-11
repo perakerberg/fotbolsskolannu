@@ -11,6 +11,8 @@ Den **19-21 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för a
 
 ## Anmälan är öppen!
 
+<anmal-o-meter :count="29"></anmal-o-meter>
+
 Nu kan du anmäla ditt barn till fotbollskolan. Förra året fyllde vi samtliga platser, så vänta inte - gör en anmälan redan idag!
 
 :bulb: **Tips!** Välj gärna en storlek större på t-shirt :tshirt: i anmälan. De är små i storlekarna!

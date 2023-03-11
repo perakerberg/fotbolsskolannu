@@ -63,5 +63,3 @@ Om du redan har varit i kontakt med oss, behöver du inte fylla i formuläret. V
     <button type="submit" style="font-family: Luckiest Guy; font-size: 2rem; padding-top:6px">Skicka</button>
   </p>
 </form>
-
-<img src="/images/logo_v4.png" height="300px" style="display:flex"/>
