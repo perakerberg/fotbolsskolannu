@@ -1,32 +1,21 @@
 <template>
   <div class="AnmalOMeter">
     <img
-      :="
-        'Hittils har ' +
-        count +
-        ' barn anmält sig till sommarens roligaste dagar'
-      "
       src="https://res.cloudinary.com/dpd5cqqpz/image/upload/v1678545721/fotbollsskola/anmal-o-meter_cboktg.png"
     />
-    <div
-      class="AnmalOMeter__progress"
-      :style="'width: ' + (count / 100) * 89 + '%;'"
-    ></div>
+    <div class="AnmalOMeter__progress" :style="progressStyle"></div>
   </div>
 </template>
 
 <script>
+const numberOfSignedUp = 29;
+const maxNumberOfSignUps = 100;
 export default {
-  props: {
-    count: Number,
-  },
-  computed: {
-    progressStyle() {
-      let progress = this.count / 100;
-      let value = 89 * progress;
-      console.log(progress);
-      return "width " + value + "%;";
-    },
+  data() {
+    return {
+      progressStyle:
+        "width: " + (numberOfSignedUp / maxNumberOfSignUps) * 89 + "%;",
+    };
   },
 };
 </script>
