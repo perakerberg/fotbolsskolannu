@@ -30,7 +30,7 @@ export default defineUserConfig({
   ],
 
   theme: defaultTheme({
-    //logo: "/images/logo_v4.png",
+    logo: "https://res.cloudinary.com/dpd5cqqpz/image/upload/w_200,ar_1:1,c_fill,g_auto,e_art:hokusai/v1678396597/fotbollsskola/logga2023_hsvhft.png",
     navbar: [
       { text: "[Start]", link: "/start" },
 
