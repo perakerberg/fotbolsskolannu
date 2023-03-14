@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/perakerberg/fotbolsskolannu/issues"
   },
-  "homepage": "https://github.com/perakerberg/fotbolsskolannu#readme"
+  "homepage": "https://github.com/perakerberg/fotbolsskolannu#readme",
+  "dependencies": {
+    "dayjs": "^1.11.7"
+  }
 }

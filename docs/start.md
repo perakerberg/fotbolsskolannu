@@ -10,7 +10,12 @@ Den **19-21 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för a
 > Du som är 14 år eller äldre har en fantastisk möjlighet att vara med på fotbollskolan som ledare. Anmäl ditt intresse [här](ledare-sokes)
 
 <div style="display:flex; align-items: center; justify-content: center; width:100%; margin-top: 2rem;">
+<days-remaining></days-remaining>
+</div>
+<div style="display:flex; align-items: center; justify-content: center; width:100%; margin-top: 2rem;">
+
 <anmal-o-meter></anmal-o-meter>
+
 </div>
 
 ## Anmälan är öppen!
