@@ -14,6 +14,7 @@ export default {
     return {
       daysLeft: dayjs("2023-06-19").diff(dayjs(), "day"),
       daysToShow: dayjs("2023-06-19").diff(dayjs(), "day") + 33,
+      timeout: 500,
     };
   },
   mounted() {
@@ -22,10 +23,14 @@ export default {
   methods: {
     countdown() {
       if (this.daysToShow > this.daysLeft) {
+        const diff = this.daysToShow - this.daysLeft;
+
+        this.timeout -= diff * 1.1;
+        let that = this;
         setTimeout(() => {
           this.daysToShow--;
           this.countdown();
-        }, (this.daysToShow - this.daysLeft) * 2);
+        }, that.timeout);
       }
     },
   },
@@ -38,7 +43,7 @@ export default {
   font-size: 1.5rem;
   opacity: 0.5;
   &--done {
-    animation: bounce 0.5s cubic-bezier(0.28, 0.84, 0.42, 1) forwards;
+    animation: bounce 1s cubic-bezier(0.28, 0.84, 0.42, 1) forwards;
   }
 }
 
