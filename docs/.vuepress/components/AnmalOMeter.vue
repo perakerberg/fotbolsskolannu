@@ -8,7 +8,7 @@
 </template>
 
 <script>
-const numberOfSignedUp = 88;
+const numberOfSignedUp = 91;
 const maxNumberOfSignUps = 100;
 export default {
   data() {
