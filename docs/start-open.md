@@ -6,8 +6,8 @@ title: Startsida
 
 Den **19-21 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för alla barn mellan 6-13 år. Förra året blev en succé - nästan 100 barn skapade ett myller av lek, fotboll och skratt - som hördes över hela byn! Nu ser vi fram emot tre minst lika fartfyllda, soliga dagar med mycket lek, skratt och energi. Efterhand som planeringen går vidare kommer du hitta all information på den här sidan.
 
-> **Just nu: Helt fullbokat!**
-> Nu är fotbollskolan fylld till bredden med barn och vi har stängt anmälan. Nu ser vi bara fram emot att se alla anmälda springa in på plan den 19 juni!
+> **Just nu: Information**
+> Lorem ipsum
 
 <div style="display:flex; align-items: center; justify-content: center; width:100%; margin-top: 2rem;">
 <days-remaining></days-remaining>
@@ -21,6 +21,22 @@ Den **19-21 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för a
 ## Anmälan är stängd
 
 Nu är anmälan stängd och alla platser är fyllda. Tack till alla som har anmält er, vi ses 19 juni!
+
+Nu kan du anmäla ditt barn till fotbollskolan. Förra året fyllde vi samtliga platser, så vänta inte - gör en anmälan redan idag!
+
+:bulb: **Tips!** Välj gärna en storlek större på t-shirt :tshirt: i anmälan. De är små i storlekarna!
+
+<div class="anmal-button">
+    <div class="anmal-button__link">
+    <a href="https://start.landslagetsfotbollsskola.se/sv/clubs/8701-horreds-if-ifk-oxnevalla/event/4785-fotbollsskolan-horred-oxnevalla/webanmalan/new" target="_blank">Anmäl ditt barn här!</a>
+    </div>
+</div>
+
+---
+
+_Det kan vara problem med att öppna länken till anmälan på iphone via länken på Facebook eller i Messenger. Men det går att lösa - [här finns en lösning](iphone-problem)_
+
+---
 
 ## För _alla_ barn
 
