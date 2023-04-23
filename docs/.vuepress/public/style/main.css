@@ -1,5 +1,10 @@
 
-
+select{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding: 0.5rem;
+}
 .home .hero h1, h1, .page h1{
     font-family: 'Luckiest Guy';
     font-size: 4rem;
