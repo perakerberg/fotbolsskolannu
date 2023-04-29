@@ -1,5 +1,5 @@
 # Tack!
 
-Tack för det! Vi ses den 2 juni 17:30!
+Tack för det! Vi ses den 24 maj 17:30!
 
-// Fotbolsskolan i Öxnevalla och Horred
+// Fotbollsskolan i Öxnevalla och Horred
