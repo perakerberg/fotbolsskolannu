@@ -6,9 +6,6 @@ title: Startsida
 
 Den **19-21 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för alla barn mellan 6-13 år. Förra året blev en succé - nästan 100 barn skapade ett myller av lek, fotboll och skratt - som hördes över hela byn! Nu ser vi fram emot tre minst lika fartfyllda, soliga dagar med mycket lek, skratt och energi. Efterhand som planeringen går vidare kommer du hitta all information på den här sidan.
 
-> **Just nu: Helt fullbokat!**
-> Nu är fotbollskolan fylld till bredden med barn och vi har stängt anmälan. Nu ser vi bara fram emot att se alla anmälda springa in på plan den 19 juni!
-
 <div style="display:flex; align-items: center; justify-content: center; width:100%; margin-top: 2rem;">
 <days-remaining></days-remaining>
 </div>
