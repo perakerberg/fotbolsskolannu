@@ -29,7 +29,7 @@ Om du är 15 år eller äldre behöver du ordna ett registerutdrag ur belastning
 Sedan den 1 januari 2020 är det obligatoriskt för alla idrottsföreningar inom RF (Riksidrottsförbundet) att kontrollera begränsat registerutdrag för alla personer över 15 år som har återkommande kontakt med barn och ungdomar under 18 år i verksamheterna.
 
 För att beställa ett registerutdrag, gå in här:
-[Utdrag för arbete med barn i annan verksamhet än skola och barnomsorg](https://polisen.se/tjanster-tillstand/belastningsregistret/ovrigt-arbete-och-kontakt-med-barn)
+[Utdrag för arbete med barn i annan verksamhet än skola och barnomsorg](https://polisen.se/tjanster-tillstand/belastningsregistret/)
 
 Registerutdraget skickas hem till dig. **Ta med det till utbildningen**.
 
