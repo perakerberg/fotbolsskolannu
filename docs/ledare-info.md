@@ -73,8 +73,8 @@ OBS! Gör detta även om du har uppgett dem till oss tidigare, så har vi alla p
   <option value="s">s</option>
   <option value="m">m</option>
   <option value="l">l</option>
-  <option value="l">xl</option>
-  <option value="l">xxl</option>
+  <option value="xl">xl</option>
+  <option value="xxl">xxl</option>
  
 </select>
    <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;">Storlek tröja </span>
@@ -85,8 +85,8 @@ OBS! Gör detta även om du har uppgett dem till oss tidigare, så har vi alla p
   <option value="s">s</option>
   <option value="m">m</option>
   <option value="l">l</option>
-  <option value="l">xl</option>
-  <option value="l">xxl</option>
+  <option value="xl">xl</option>
+  <option value="xxl">xxl</option>
 
 </select>
     <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;">Storlek shorts </span>
@@ -97,8 +97,8 @@ OBS! Gör detta även om du har uppgett dem till oss tidigare, så har vi alla p
   <option value="s">s</option>
   <option value="m">m</option>
   <option value="l">l</option>
-  <option value="l">xl</option>
-  <option value="l">xxl</option>
+  <option value="xl">xl</option>
+  <option value="xxl">xxl</option>
 
 </select>
 
