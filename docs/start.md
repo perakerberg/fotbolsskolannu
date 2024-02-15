@@ -1,23 +1,51 @@
-# TACK!
+---
+title: Startsida
+---
 
-<img src="https://res.cloudinary.com/dpd5cqqpz/image/upload/w_1024,ar_16:9,c_fill,g_auto/v1669838067/tack2023.jpg" width="100%"/>
+> **Just nu: [Vi söker ledare till årets fotbollsskola](ledare-sokes)**
 
-Stort tack till alla som gjorde sommarens fotbollskola möjlig!
+# Välkommen!
 
-Tillsammans med fyllde Horreds IF och IFK Öxnevalla både Eksätersvallen och Hedevallen med liv under tre dagar. Fotbollsglädje med drygt 100 deltagande barn från bygden - fantastiskt.
+Den **17-19 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för alla barn mellan 6-13 år. Vi har haft nästan 100 barn anmälda två år i rad - vilken succé! Ett myller av lek, fotboll och skratt - som hördes över hela byn! Nu ser vi fram emot tre minst lika fartfyllda, soliga dagar med mycket lek, skratt och energi. Efterhand som planeringen går vidare kommer du hitta all information på den här sidan.
 
-Tack till alla ungdomsledare: _Amelia_, _Emma_, _Edward_, _Hugo_, _Ellijot_, _Elise_, _Valle_, _Theodor_, _Emil_, _Gustav_, _Jacob_, _Ebba_, _Elin_, _Tilia_, _Lucaz_, _Carl_, _Linnea_, _Clara_, _Frida_ och _Weronika_. Det var **ni** som gjorde det. Ni är helt fantastiska. Tack!
+<div style="display:flex; align-items: center; justify-content: center; width:100%; margin-top: 2rem;">
+<days-remaining></days-remaining>
+</div>
+<div style="display:flex; align-items: center; justify-content: center; width:100%; margin-top: 2rem;">
 
-Till alla er som såg till att barnen fick mat under dagarna, både _SPF_ och _PRO_. Med en självklar glädje, värme och trygghet fixade ni toppenkäk! Tack!
+<!-- <anmal-o-meter></anmal-o-meter> -->
 
-Till alla **sponsorer** som bidragit med allt från glass, korv till bussresor. Vi är så tacksamma för er hjälp - ni gav dessa dagar en guldkant och minnen för lång tid framöver.
+</div>
 
-Tack _Västergötlands fotbollsförbund_ för att ni gör fotbollskolor som vår möjliga.
+<!-- ## Anmälan är stängd
 
-Ett extra stort tack till _Marks kommun_ för att ni gjorde dagarna **kostnadsfria** och därmed tillgängliga för ALLA barn - en så fin insats, särskilt i dessa tider.
+Nu är anmälan stängd och alla platser är fyllda. Tack till alla som har anmält er, vi ses 19 juni! -->
 
-Och till sist, alla ni som på något sätt hjälpt oss med stort som smått - det är vi tillsammans som har gjort detta. Alla behövs för att skapa sommarens roligaste dagar. Vi gjorde det igen - och det är vi stolta över.
+## Anmälan öppnar inom kort!
 
-TACK!
+Om några veckor öppnar vi anmälan för alla fotbollssugna barn. Håll utkik!
 
-// Lena Brunnsåker, Caroline Einarsson, Rebecka Fallqvist, Emma Scheller och Per Åkerberg
+## För _alla_ barn
+
+Alla barn mellan 6-13 år (födda 2018-2011) är välkomna. Tjej eller kille, om du har spelat mycket fotboll förut eller inte alls, om du tränar fotboll på fritiden eller gör något helt annat - du är lika välkommen! Det här gör vi för alla barn mellan 6-13 år. Och du - det är **gratis**, så alla kan vara med.
+
+<img src="https://res.cloudinary.com/dpd5cqqpz/image/upload/w_800,ar_16:9,c_fill,g_auto/v1678372511/fotbollsskola/edward_r9sydc.jpg" width="100%"/>
+
+## Av hela bygden
+
+Med våra två föreningar som grund och med stor hjälp av frivilliga runt omkring gör vi detta möjligt. Vi brukar få så fin hjälp med grillning och servering :hamburger:...
+<img src="/images/maten.png" width="100%"/>
+
+...busstransporter :bus:
+<img src="/images/skolan-buss.png" width="100%"/>
+...helt enkelt allt som gör dagarna till **sommarens roligaste dagar**.
+
+Vill du hjälpa till i år? Vill du sponsra oss för att sätta guldkant för barnen? Har du en rolig idé till en överraskning för dem? Hör av dig - tillsammans skapar vi _sommarens roligaste dagar_!
+
+## Glädje, glädje... och :smile:!
+
+Det här handlar inte bara om fotboll. Det här handlar framförallt om att ha roligt tillsammans, att göra något speciellt under sommarlovets första dagar. Dagar att minnas - länge!
+
+<img src="https://res.cloudinary.com/dpd5cqqpz/image/upload/w_1000,ar_16:9,c_fill,g_auto/v1678372509/fotbollsskola/IMG_7237_hqlhuz.jpg" width="100%">
+
+### [Läs mer om fotbollssskolan](om)

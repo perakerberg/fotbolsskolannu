@@ -11,7 +11,7 @@
     </div>
     <div class="dates">
       <span>Fotbollsskola i <b>Öxnevalla</b> och <b>Horred</b></span>
-      <span>19-21 Juni 2023</span>
+      <span>17-19 Juni 2024</span>
     </div>
 
     <div class="club-logos">
