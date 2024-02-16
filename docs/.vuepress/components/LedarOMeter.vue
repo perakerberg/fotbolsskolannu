@@ -83,29 +83,29 @@ export default {
     }
   }
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 700px) {
   .LedarOMeter {
     max-width: 500px;
     position: relative;
     img {
       width: 100vw;
-      max-width: 100vw !important;
+      max-width: 100vmax !important;
     }
     .Ledare {
-      height: 24px;
-      width: 32px;
+      height: 22px;
+      width: 30px;
     }
 
     @for $i from 1 through 10 {
       .Ledare1-#{$i} {
         top: 32px;
-        left: -36px + ($i * 41px);
+        left: -30px + ($i * 38px);
       }
     }
     @for $i from 1 through 10 {
       .Ledare2-#{$i} {
         top: 64px;
-        left: -36px + ($i * 41px);
+        left: -30px + ($i * 38px);
       }
     }
   }
