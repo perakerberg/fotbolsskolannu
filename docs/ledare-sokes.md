@@ -30,11 +30,12 @@ Självklart vill du vara med!
 
 ### Till dig som varit med som ledare förut
 
-Om du redan har varit i kontakt med oss, behöver du inte fylla i formuläret. Vi hoppas också att du har kvar dina ledarkläder :tshirt: :shorts: och att de passar. I annat fall är det bara att du hör av dig.
+Om du har varit med förut - varmt välkommen tillbaka :heart: <br>Anmäl dig nedan så får vi alla ledare på samma plats. Vi hoppas också att du har kvar dina ledarkläder :tshirt: :shorts: och att de passar. Annars löser vi det framöver.
 
 ## Anmäl ditt intresse här:
 
 <form
+  id="anmal"
   name="coaches2024"
   method="POST"
   netlify-honeypot="bot-field"
@@ -51,9 +52,9 @@ Om du redan har varit i kontakt med oss, behöver du inte fylla i formuläret. V
     <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;">Namn: </span>
       <input type="text" name="name" style="font-size: 1.5rem; width: 90%" />
     <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;"> E-postadress:</span>
-      <input type="text" name="email" style="font-size: 1.5rem; width: 90%" />
+      <input type="email" name="email" style="font-size: 1.5rem; width: 90%" />
       <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;"> Telefonnummer:</span>
-      <input type="text" name="phone" style="font-size: 1.5rem; width: 90%" />
+      <input type="tel" name="phone" style="font-size: 1.5rem; width: 90%" />
    <span style="font-family: Luckiest Guy; font-size: 1.5rem; padding-top: 1rem; display:block;">Ev. meddelande</span> 
    <textarea name="message" rows="5" style="font-size: 1.2rem; width: 90%"/>
    
