@@ -35,7 +35,6 @@ Om du har varit med förut - varmt välkommen tillbaka :heart: <br>Anmäl dig ne
 ## Anmäl ditt intresse här:
 
 <form
-  id="anmal"
   name="coaches2024"
   method="POST"
   netlify-honeypot="bot-field"
@@ -51,6 +50,15 @@ Om du har varit med förut - varmt välkommen tillbaka :heart: <br>Anmäl dig ne
   <div style="display: fle; flex-direction: column">
     <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;">Namn: </span>
       <input type="text" name="name" style="font-size: 1.5rem; width: 90%" />
+      <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;"> Födelseår:</span>
+      <select name="yearofbirth" style="font-size: 1.5rem; width: 90%">
+      <option value="2010">2010</option>
+      <option value="2009">2009</option>
+      <option value="2008">2008</option>
+      <option value="2007">2007</option>
+      <option value="2006">2006</option>
+      <option value="2005">2005</option>
+       </select> 
     <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;"> E-postadress:</span>
       <input type="email" name="email" style="font-size: 1.5rem; width: 90%" />
       <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;"> Telefonnummer:</span>
