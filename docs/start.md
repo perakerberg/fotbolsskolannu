@@ -11,15 +11,22 @@ Den **17-19 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för a
 <div style="display:flex; align-items: center; justify-content: center; width:100%; margin-top: 2rem;">
 <days-remaining></days-remaining>
 </div>
-<div style="display:flex; align-items: center; justify-content: center; width:100%; margin-top: 2rem;">
-
-<!-- <anmal-o-meter></anmal-o-meter> -->
-
-</div>
 
 <!-- ## Anmälan är stängd
 
 Nu är anmälan stängd och alla platser är fyllda. Tack till alla som har anmält er, vi ses 19 juni! -->
+
+## Vi söker ledare!
+
+Är du mellan 14-19 år? Vill du hjälpa till att ge sommaren en _smakstart_? Anmäl dig som ledare [här](ledare-sokes)
+
+<div style="display:flex; align-items: center; justify-content: center; width:100%; margin-top: 2rem;">
+
+<ledar-o-meter></ledar-o-meter>
+
+<!-- <anmal-o-meter></anmal-o-meter> -->
+
+</div>
 
 ## Anmälan öppnar inom kort!
 
