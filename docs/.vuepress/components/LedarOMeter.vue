@@ -28,7 +28,6 @@ export default {
     showCoach() {
       if (this.coachCount < bookedCoaches) {
         setTimeout(() => {
-          console.log("yo", this.coachCount);
           this.coachCount++;
           this.showCoach();
         }, 400);
