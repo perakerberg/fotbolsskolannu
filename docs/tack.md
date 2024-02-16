@@ -1,5 +1,5 @@
 # Tack!
 
-Tack för ditt mail, vi hör av oss så snart vi kan!
+Tack för det! Vi hör av oss så snart vi kan!
 
-// Fotbolsskolan i Öxnevalla och Horred
+// Fotbollsskolan i Öxnevalla och Horred
