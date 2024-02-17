@@ -62,7 +62,7 @@ export default {
   }
 
   100% {
-    transform: scale(1.5, 1.5) translateY(0);
+    transform: scale(2, 2) translateY(0);
     opacity: 1;
   }
 }
