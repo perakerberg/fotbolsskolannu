@@ -8,7 +8,7 @@ Grymt kul att ni har anmält er som ledare till fotbollsskolan! Det kommer bli t
 
 ## 1 - Datum för träff och utbildning
 
-Alla ledare träffas den **24 maj 17:30 - 20:30** i Horreds IFs klubbstuga.
+Alla ledare träffas den **21 maj 17:30 - 20:30** i Horreds IFs klubbstuga.
 
 Jesper Sunnerås från VFF håller i en kort utbildning kring rollen som ledare på fotbollsskolan. Vi vet att många av er gick utbildning förra året, så vi kommer anpassa innehållet med tanke på det.
 
@@ -38,14 +38,14 @@ PS. Om du har problem med att få ut registerutdrag - hör av dig! DS.
 ## 3 - Komplettera dina uppgifter hos oss
 
 En viktig del i att vara ledare är såklart de snygga ledarkläderna.
-Förhoppningsvis har flera av er kvar kläder sedan förra året. Eftersom det är likadana kläder i år, hoppas vi att ni kan behålla dem. Om ni inte har sedan sist eller behöver ny storlek, ange det nedan.
+Förhoppningsvis har flera av er kvar kläder sedan förra året. Eftersom det är likadana kläder i år, hoppas vi att ni kan behålla dem. Om det är din första gång, eller behöver ny storlek, ange det nedan.
 
 Vi behöver också eventuella allergier eller kostönskemål (gluten, laktos, vegetarisk kost mm). Fyll i informationen nedan.
 
 OBS! Gör detta även om du har uppgett dem till oss tidigare, så har vi alla på samma plats.
 
 <form
-  name="coaches-details"
+  name="coaches-details-24"
   method="POST"
   netlify-honeypot="bot-field"
   data-netlify="true"
@@ -117,4 +117,4 @@ OBS! Gör detta även om du har uppgett dem till oss tidigare, så har vi alla p
   </p>
 </form>
 
-<div style="font-family: Luckiest Guy; font-size:2rem; margin-top:2rem; display: block;">Glöm inte: Utbildning 24 maj 17:30!</div>
+<div style="font-family: Luckiest Guy; font-size:2rem; margin-top:2rem; display: block;">Glöm inte: Utbildning 21 maj 17:30!</div>
