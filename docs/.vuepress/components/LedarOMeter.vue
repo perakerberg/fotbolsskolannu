@@ -13,7 +13,7 @@
 </template>
 
 <script>
-const bookedCoaches = 15;
+const bookedCoaches = 17;
 
 export default {
   data() {
