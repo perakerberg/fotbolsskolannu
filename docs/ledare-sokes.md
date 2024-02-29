@@ -1,5 +1,8 @@
 # Ledare sökes!
 
+> **Just nu: Bara ett fåtal platser kvar som ledare!**
+
+<ledar-o-meter></ledar-o-meter>
 Fyller du minst 14 i år? Vill du vara med och skapa _sommarens roligaste dagar_ för barn och ungdomar mellan 6-13 år? Vill du få en erfarenhet att ta med dig för lång tid framöver?
 
 Just nu söker vi dig som vill vara ledare för en mindre grupp barn och ungdomar i åldrarna 6-13 år, både tjejer och killar. Även om det är en fotbollsskola så är dina möjligheter större än så. Visst kommer vi öva på fotboll, men också leka lekar, se till att gruppen håller ihop och är på bra humör. En utmaning, javisst - men vi lovar att det ger så mycket tillbaka.

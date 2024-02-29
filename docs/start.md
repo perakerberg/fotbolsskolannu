@@ -2,7 +2,7 @@
 title: Startsida
 ---
 
-> **Just nu: [Vi söker ledare till årets fotbollsskola](ledare-sokes)**
+> **Just nu: [Anmälan är öppen](anmalan)**
 
 # Välkommen!
 

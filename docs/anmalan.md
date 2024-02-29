@@ -11,7 +11,7 @@ Om du har några frågor eller funderingar, [kontakta oss](kontakt)!
 
 ## Länk till anmälan
 
-<a href="https://www.lirablagult.se/sv/show_club/8701-horreds-if-ifk-oxnevalla/football"><span style="font-size: 20px; font-weight:bold">====>Till Lira Blågults anmälan<====</span></a>
+<a href="https://www.lirablagult.se/sv/show_club/8701-horreds-if-ifk-oxnevalla/football"><span style="font-size: 20px; font-weight:bold">====>Anmäl ditt barn här<====</span></a>
 
 ---
 
