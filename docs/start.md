@@ -12,29 +12,17 @@ Den **17-19 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för a
 <days-remaining></days-remaining>
 </div>
 
-<!-- ## Anmälan är stängd
+## Anmälan är öppen! :tada:
 
-Nu är anmälan stängd och alla platser är fyllda. Tack till alla som har anmält er, vi ses 19 juni! -->
+<a href="anmalan"><anmal-o-meter></anmal-o-meter></a>
 
-## Vi söker ledare!
+Nu är anmälan öppen och vi har startat vår anmälning-o-meter! Anmäl ditt barn redan idag för att vara säker på en plats. Vi stänger anmälan när vi har fyllt alla platser, dock senast den 1 maj.
 
-Är du mellan 14-19 år? Vill du hjälpa till att ge sommaren en _smakstart_? Anmäl dig som ledare [här](ledare-sokes)
-
-<div style="display:flex; align-items: center; justify-content: center; width:100%; margin-top: 2rem;">
-
-<ledar-o-meter></ledar-o-meter>
-
-<!-- <anmal-o-meter></anmal-o-meter> -->
-
-</div>
-
-## Anmälan öppnar inom kort!
-
-Om några veckor öppnar vi anmälan för alla fotbollssugna barn. Håll utkik!
+<a href="anmalan"><span style="font-size: 20px; font-weight:bold">====>Till anmälan<====</span></a>
 
 ## För _alla_ barn
 
-Alla barn mellan 6-13 år (födda 2018-2011) är välkomna. Tjej eller kille, om du har spelat mycket fotboll förut eller inte alls, om du tränar fotboll på fritiden eller gör något helt annat - du är lika välkommen! Det här gör vi för alla barn mellan 6-13 år. Och du - det är **gratis**, så alla kan vara med.
+Alla barn mellan 6-13 år (födda 2018-2011) är välkomna. Tjej eller kille, om du har spelat mycket fotboll förut eller inte alls, om du tränar fotboll på fritiden eller gör något helt annat - du är lika välkommen! Det här gör vi för alla barn. Och du - det är **gratis**, så alla kan vara med.
 
 <img src="https://res.cloudinary.com/dpd5cqqpz/image/upload/w_800,ar_16:9,c_fill,g_auto/v1678372511/fotbollsskola/edward_r9sydc.jpg" width="100%"/>
 
