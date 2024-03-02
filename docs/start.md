@@ -2,7 +2,7 @@
 title: Startsida
 ---
 
-> **Just nu: [Anmälan är öppen](anmalan)**
+> **Just nu: [Anmälningarna strömmar in, bara fåtal platser kvar!](anmalan)**
 
 # Välkommen!
 
