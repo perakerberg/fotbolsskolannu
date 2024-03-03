@@ -61,10 +61,8 @@ Fotbollsskolan är beroende av dig som ledare, så vi behöver veta direkt om n�
   </p>
   
   <div style="display: flex; flex-direction: column">
-    <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;">Barnets namn: </span>
+    <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;">Namn: </span>
       <input type="text" name="name" style="font-size: 1.5rem; width: 90%" />
-    <!-- <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;"> Personnummer:</span>
-      <input type="text" name="ssn" style="font-size: 1.5rem; width: 90%" /> -->
        <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;"> Ev. allergier / kost:</span>
       <input type="text" name="allergies" style="font-size: 1.5rem; width: 90%;" />
       <span style="font-family: Luckiest Guy; padding-top: 2rem;font-size:1.5rem; display: block;">Storlek T-shirt </span>   
