@@ -14,7 +14,7 @@ Jesper Sunnerås från VFF håller i en utbildning kring rollen som ledare på f
 
 Vi kommer även gå igenom årets övningar.
 
-Vi kommer att dela ut kläder till de som behöver och titta på registerutdrag för de som inte lämnat tidigare.
+Vi kommer att dela ut kläder till de som behöver och titta på registerutdrag för de över 15.
 
 Vi ordnar med mat så att ni orkar hela utbildningen. :pizza:
 Om du inte vill ha pizza, skriv gärna andra önskemål under kost i formuläret nedan, så löser vi det :heart:
