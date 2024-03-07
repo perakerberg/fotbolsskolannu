@@ -36,10 +36,10 @@ export default defineUserConfig({
 
       { text: "Om", link: "/om" },
       // { text: "Ledare sökes!", link: "/ledare-sokes" },
-      {
-        text: "Anmälan",
-        link: "/anmalan",
-      },
+      // {
+      //   text: "Anmälan",
+      //   link: "/anmalan",
+      // },
       { text: "Kontakt", link: "/kontakt" },
     ],
     sidebar: false,
