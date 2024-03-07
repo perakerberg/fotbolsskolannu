@@ -2,7 +2,7 @@
 title: Startsida
 ---
 
-> **Just nu: [Anmälningarna strömmar in, bara fåtal platser kvar!](anmalan)**
+> **Just nu: Anmälan är stängd, alla platser är fyllda!**
 
 # Välkommen!
 
@@ -12,13 +12,14 @@ Den **17-19 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för a
 <days-remaining></days-remaining>
 </div>
 
-## Anmälan är öppen! :tada:
+## Anmälan är stängd!
 
-<anmal-o-meter></anmal-o-meter>
+På bara några timmar hade vi fyllt nästan alla platser på fotbollsskolan. Nu, efter en knapp vecka är skolan fylld till bredden med barn och vi måste stänga anmälan.
 
-Nu är anmälan öppen och vi har startat vår anmälning-o-meter! Anmäl ditt barn redan idag för att vara säker på en plats. Vi stänger anmälan när vi har fyllt alla platser, dock senast den 1 maj.
+Det är såklart superkul att så många var snabba på bollen, det är vi väldigt tacksamma för :heart:
+För att ge så många som möjligt chansen att vara med har vi en reservlista, där du kan anmäla ditt barn om ni missade årets anmälan.
 
-<a href="anmalan"><span style="font-size: 20px; font-weight:bold">====>Till anmälan<====</span></a>
+<a href="reservlista"><span style="font-size: 20px; font-weight:bold">====>Till reservlistan<====</span></a>
 
 ## För _alla_ barn
 
