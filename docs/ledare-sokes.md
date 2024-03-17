@@ -1,6 +1,6 @@
 # Ledare sökes!
 
-> **Just nu: Bara ett fåtal platser kvar som ledare!**
+> **Just nu: Ledargänget komplett, men anmäl gärna intresse nedan!**
 
 <ledar-o-meter></ledar-o-meter>
 Fyller du minst 14 i år? Vill du vara med och skapa _sommarens roligaste dagar_ för barn och ungdomar mellan 6-13 år? Vill du få en erfarenhet att ta med dig för lång tid framöver?
