@@ -12,7 +12,7 @@ Tack till alla ungdomsledare: _Amelia_, _Ville_, _Melker_, _Hugo_, _Nellie_, _El
 
 Till alla er som såg till att barnen fick mat under dagarna, både _SPF_ och _PRO_. Med en självklar glädje, värme och trygghet fixade ni toppenkäk! Tack!
 
-Till alla **sponsorer** som bidragit med allt från glass, korv till bussresor. Vi är så tacksamma för er hjälp - ni gav dessa dagar en guldkant och minnen för lång tid framöver.
+Till alla **sponsorer** som bidragit med allt från glass och hamburgare till korv och bussresor. Vi är så tacksamma för er hjälp - ni gav dessa dagar en guldkant och minnen för lång tid framöver.
 
 <div style="display:grid; grid-template-columns: repeat(4, 25%); grid-template-rows: 1fr 1fr; gap:0.5rem; align-items:center; justify-content:center">
 <img src="https://images.vastsverige.com/publishedmedia/oei2vn14qck7h7k3r8eb/Vik_g-rd_logo_fr-n_deras_facebook.png"/>
