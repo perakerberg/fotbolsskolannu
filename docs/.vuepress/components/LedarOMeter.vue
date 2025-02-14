@@ -13,7 +13,7 @@
 </template>
 
 <script>
-const bookedCoaches = 20; //Last one!
+const bookedCoaches = 0; //Last one!
 
 export default {
   data() {
