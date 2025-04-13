@@ -11,26 +11,30 @@ Den **16-18 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för a
 <div style="display:flex; align-items: center; justify-content: center; width:100%; margin-top: 2rem;">
 <days-remaining></days-remaining>
 </div>
-<div style="display:flex; align-items: center; justify-content: center; width:100%; margin-top: 2rem;">
 
-<!-- <ledar-o-meter></ledar-o-meter> -->
+<!-- ## Anmälan är stängd!
 
-</div>
+På bara några timmar hade vi fyllt alla platser på fotbollsskolan.
 
-## Anmälan öppnar den 13 april 08:00
+Det är såklart superkul att så många var snabba på bollen, det är vi väldigt tacksamma för :heart:
+För att ge så många som möjligt chansen att vara med har vi en reservlista, där du kan anmäla ditt barn om ni missade årets anmälan.
 
+<a href="reservlista"><span style="font-size: 20px; font-weight:bold">====>Till reservlistan<====</span></a> -->
+
+## Anmälan är öppen!
+
+<!--
+## Anmälan öppnar snart!
 Nedräkningen till anmälan har börjat!
-Den 13 april 08:00 öppnar vi anmälan för alla barn via länken nedan.
+Den 13 april 08:00 öppnar vi anmälan för alla barn via länken nedan. -->
 
-<!-- Nu är anmälan stängd och alla platser är fyllda. Tack till alla som har anmält er, vi ses 19 juni!-->
-
-<!--Nu kan du anmäla ditt barn till fotbollskolan. Förra året fyllde vi samtliga platser, så vänta inte - gör en anmälan redan idag!-->
+Nu kan du anmäla ditt barn till fotbollskolan. Förra året fyllde vi samtliga platser, så vänta inte - gör en anmälan redan idag!
 
 :bulb: **Tips!** Välj gärna en storlek större på t-shirt :tshirt: i anmälan. De är små i storlekarna!
 
 <div class="anmal-button">
     <div class="anmal-button__link">
-    <a disabled href="https://www.landslagetsfotbollsskola.se/sv/show_club/8701-horreds-if-ifk-oxnevalla/football" target="_blank">&#128274; Anmäl ditt barn här!</a>
+    <a disabled href="https://www.landslagetsfotbollsskola.se/sv/show_club/8701-horreds-if-ifk-oxnevalla/football" target="_blank">Anmäl ditt barn här!</a>
     </div>
 </div>
 
