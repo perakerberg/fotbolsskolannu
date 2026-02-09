@@ -12,8 +12,8 @@ import dayjs from "dayjs";
 export default {
   data() {
     return {
-      daysLeft: dayjs("2025-06-16").diff(dayjs(), "day"),
-      daysToShow: dayjs("2025-06-16").diff(dayjs(), "day") + 33,
+      daysLeft: dayjs("2026-06-15").diff(dayjs(), "day"),
+      daysToShow: dayjs("2026-06-15").diff(dayjs(), "day") + 33,
       timeout: 500,
     };
   },

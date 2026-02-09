@@ -4,23 +4,20 @@ title: Startsida
 
 # Välkommen!
 
-Den **16-18 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för alla barn mellan 6-12 år. För fjärde året i rad ser vi fram emot tre fartfyllda, soliga dagar med mycket lek, skratt och energi. Efterhand som planeringen går vidare kommer du hitta all information på den här sidan.
+Den **15-17 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för alla barn mellan 6-12 år. För femte året i rad ser vi fram emot tre fartfyllda, soliga dagar med mycket lek, skratt och energi. Efterhand som planeringen går vidare kommer du hitta all information på den här sidan.
 
-<!-- > **Just nu: Vi söker ledare** > [Anmäl ditt intresse här](https://forms.gle/bkK4SQzdPNYNUo33A) -->
+**Just nu: Vi söker ledare** > [Anmäl ditt intresse här](https://forms.gle/khSxzHZsgY2orx8Q9)
 
 <div style="display:flex; align-items: center; justify-content: center; width:100%; margin-top: 2rem;">
 <days-remaining></days-remaining>
 </div>
-
-## Anmälan är stängd!
-
+<!--  ## Anmälan är stängd!-->
+<!--
 På bara några timmar hade vi fyllt de flesta platserna på fotbollsskolan.
 Ett drygt dygn senare var alla platser slut.
-
 Det är såklart superkul att så många var snabba på bollen, det är vi väldigt tacksamma för :heart:
 För att ge så många som möjligt chansen att vara med har vi en reservlista, där du kan anmäla ditt barn om ni missade årets anmälan.
-
-<a href="reservlista"><span style="font-size: 20px; font-weight:bold">====>Till reservlistan<====</span></a>
+<a href="reservlista"><span style="font-size: 20px; font-weight:bold">====>Till reservlistan<====</span></a>-->
 
 <!-- ## Anmälan är öppen! -->
 
@@ -47,7 +44,7 @@ _Det kan vara problem med att öppna länken till anmälan på iphone via länke
 
 ## För _alla_ barn
 
-Alla barn mellan 6-12 år (födda 2019-2013) är välkomna. Tjej eller kille, om du har spelat mycket fotboll förut eller inte alls, om du tränar fotboll på fritiden eller gör något helt annat - du är lika välkommen! Det här gör vi för alla barn mellan 6-12 år. Och du - det är **gratis**, så alla kan vara med.
+Alla barn mellan 6-12 år (födda 2020-2014) är välkomna. Tjej eller kille, om du har spelat mycket fotboll förut eller inte alls, om du tränar fotboll på fritiden eller gör något helt annat - du är lika välkommen! Det här gör vi för alla barn mellan 6-12 år. Och du - det är **gratis**, så alla kan vara med.
 
 <img src="https://res.cloudinary.com/dpd5cqqpz/image/upload/w_800,ar_16:9,c_fill,g_auto/v1678372511/fotbollsskola/edward_r9sydc.jpg" width="100%"/>
 
