@@ -6,7 +6,9 @@ title: Startsida
 
 Den **15-17 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för alla barn mellan 6-12 år. För femte året i rad ser vi fram emot tre fartfyllda, soliga dagar med mycket lek, skratt och energi. Efterhand som planeringen går vidare kommer du hitta all information på den här sidan.
 
-**Just nu: Vi söker ledare** > [Anmäl ditt intresse här](https://forms.gle/khSxzHZsgY2orx8Q9)
+<!--**Just nu: Vi söker ledare** > [Anmäl ditt intresse här](https://forms.gle/khSxzHZsgY2orx8Q9)-->
+
+**Just nu: Anmälan öppnar 12 April 08:00** > [Här kommer du kunna anmäla dig](https://www.landslagetsfotbollsskola.se/sv/show_club/8701-horreds-if-ifk-oxnevalla/football)
 
 <div style="display:flex; align-items: center; justify-content: center; width:100%; margin-top: 2rem;">
 <days-remaining></days-remaining>
