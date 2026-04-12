@@ -13,7 +13,8 @@ Den **15-17 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för a
 <div style="display:flex; align-items: center; justify-content: center; width:100%; margin-top: 2rem;">
 <days-remaining></days-remaining>
 </div>
- ## Anmälan är stängd!
+
+## Anmälan är stängd!
 
 På bara några timmar hade vi fyllt platserna på fotbollsskolan.
 Det är såklart superkul att så många var snabba på bollen, det är vi väldigt tacksamma för :heart:
