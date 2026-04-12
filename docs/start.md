@@ -8,18 +8,18 @@ Den **15-17 Juni** arrangerar IFK Öxnevalla och Horreds IF fotbollsskola för a
 
 <!--**Just nu: Vi söker ledare** > [Anmäl ditt intresse här](https://forms.gle/khSxzHZsgY2orx8Q9)-->
 
-**Just nu: Anmälan öppnar 12 April 08:00** > [Här kommer du kunna anmäla dig](https://www.landslagetsfotbollsskola.se/sv/show_club/8701-horreds-if-ifk-oxnevalla/football)
+<!-- **Just nu: Anmälan öppnar 12 April 08:00** > [Här kommer du kunna anmäla dig](https://www.landslagetsfotbollsskola.se/sv/show_club/8701-horreds-if-ifk-oxnevalla/football) -->
 
 <div style="display:flex; align-items: center; justify-content: center; width:100%; margin-top: 2rem;">
 <days-remaining></days-remaining>
 </div>
-<!--  ## Anmälan är stängd!-->
-<!--
-På bara några timmar hade vi fyllt de flesta platserna på fotbollsskolan.
-Ett drygt dygn senare var alla platser slut.
+ ## Anmälan är stängd!
+
+På bara några timmar hade vi fyllt platserna på fotbollsskolan.
 Det är såklart superkul att så många var snabba på bollen, det är vi väldigt tacksamma för :heart:
-För att ge så många som möjligt chansen att vara med har vi en reservlista, där du kan anmäla ditt barn om ni missade årets anmälan.
-<a href="reservlista"><span style="font-size: 20px; font-weight:bold">====>Till reservlistan<====</span></a>-->
+För att ge så många som möjligt chansen att vara med har vi en reservlista, där du kan anmäla ditt barn om ni missade årets anmälan. Om en plats öppnas upp hör vi av oss.
+
+<a href="reservlista"><span style="font-size: 20px; font-weight:bold">====>Till reservlistan<====</span></a>
 
 <!-- ## Anmälan är öppen! -->
 
